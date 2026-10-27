@@ -1,0 +1,92 @@
+[
+  {
+    "id": "gallery_001_layered_atlas",
+    "case_reference": "case 1",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-1",
+    "observed_prompt_structure": "把城市主题分为地上、地下与流动系统，并预先列出信息模块和颜色编码。",
+    "transfer_rule": "复杂系统图先确定剖面范围、模块数量和连接关系，再描述风格；只标注已经核实的事实。",
+    "use_for": ["教育推广", "基础设施说明", "技术培训"],
+    "limits": "原案例指定了大量面板和双语文字；模型可能遗漏标签，真实数据需要独立核验。",
+    "evidence_scope": "已审阅公开案例文字；未独立验证其生成成功率。"
+  },
+  {
+    "id": "gallery_017_exploded_diagram",
+    "case_reference": "case 17",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-17",
+    "observed_prompt_structure": "把产品拆解画面分成主体、分层组件、左右标注和底部说明。",
+    "transfer_rule": "爆炸图必须先列出已知部件、顺序和连接关系，再考虑发光效果与文案。",
+    "use_for": ["产品广告", "技术讲解", "工程课程"],
+    "limits": "原案例含特定产品名称和参数，不能移植为新产品事实；概念图不能替代工程图。",
+    "evidence_scope": "已审阅公开案例文字；未独立验证其生成成功率。"
+  },
+  {
+    "id": "gallery_310_product_callouts",
+    "case_reference": "case 310",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-310",
+    "observed_prompt_structure": "用写实产品作中心，外围叠加少量素描感的功能引导线和部件说明。",
+    "transfer_rule": "将产品照片、注释密度、引导线和强调色分别控制；未提供的尺寸、成分与环保声明保持空缺。",
+    "use_for": ["产品广告", "电商详情", "课程海报"],
+    "limits": "视觉注释很容易被误读为真实规格，发布前逐条核实。",
+    "evidence_scope": "已审阅公开案例文字；未独立验证其生成成功率。"
+  },
+  {
+    "id": "gallery_339_science_hero",
+    "case_reference": "case 339",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-339",
+    "observed_prompt_structure": "放大科普主体，浅色背景留白，把简短事实放在相对独立的下方信息区。",
+    "transfer_rule": "科普视觉可借鉴主体优先和短文案层级；建立自己的版式，不引用原提示中的品牌化表述。",
+    "use_for": ["科普海报", "博物馆教育", "产品材料说明"],
+    "limits": "物种身份、形态及说明文字需要可信资料；不以装饰性图标代替事实。",
+    "evidence_scope": "已审阅公开案例文字；未独立验证其生成成功率。"
+  },
+  {
+    "id": "gallery_539_542_ink_portraits",
+    "case_reference": "cases 539 and 542",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-539",
+    "observed_prompt_structure": "两例都使用大人物轮廓、受控色彩和粗粝墨线，分别偏向搭档肖像与黑白字体融合。",
+    "transfer_rule": "用人物占比、可读标题和墨线密度三个旋钮控制张力；人物外貌要求要与用户素材或授权一致。",
+    "use_for": ["活动海报", "编辑插画", "招聘形象"],
+    "limits": "粗线条和微字会损害中文准确性；精确文案应保留独立清楚区域。",
+    "evidence_scope": "已审阅公开案例文字；未独立验证其生成成功率。"
+  },
+  {
+    "id": "gallery_540_surreal_city",
+    "case_reference": "case 540",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-540",
+    "observed_prompt_structure": "用大型建筑形和小人物形成尺度差，再加入少量超现实植物与复古印刷感。",
+    "transfer_rule": "先定唯一焦点和空间路径，再用一至两项幻想元素强化情绪。",
+    "use_for": ["文旅活动", "城市文化", "展览海报"],
+    "limits": "真实地标和地图关系不能随意改写；不把幻想画面当作建筑效果承诺。",
+    "evidence_scope": "已审阅公开案例文字；未独立验证其生成成功率。"
+  },
+  {
+    "id": "gallery_541_split_memory",
+    "case_reference": "case 541",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-541",
+    "observed_prompt_structure": "上半部保留输入照片，下半部改作手工纸与蜡笔回忆描绘。",
+    "transfer_rule": "有参考图的编辑任务先声明必须保留的区域和内容，再声明变换区域、材质与边界。",
+    "use_for": ["校友活动", "纪念海报", "品牌故事"],
+    "limits": "必须有可用的输入照片；人像身份和未授权照片不能自行假设。",
+    "evidence_scope": "已审阅公开案例文字；未独立验证其生成成功率。"
+  },
+  {
+    "id": "gallery_543_enamel_scene",
+    "case_reference": "case 543",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-543",
+    "observed_prompt_structure": "将旅行照片中的主景压缩为珐琅徽章的外轮廓，并保留人物与景物的相对尺度。",
+    "transfer_rule": "转译成纪念品时保留原图主次与空间关系，用外形、分色线和光泽分别描述材料。",
+    "use_for": ["文旅周边", "校园纪念物", "活动礼品概念"],
+    "limits": "概念图不能直接用于开模；真实制造厚度和工艺需另行验证。",
+    "evidence_scope": "已审阅公开案例文字；未独立验证其生成成功率。"
+  },
+  {
+    "id": "gallery_544_part_learning",
+    "case_reference": "case 544",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-544",
+    "observed_prompt_structure": "将一个完整物件与它的局部并排，只用一条点线连接并配短标签。",
+    "transfer_rule": "儿童图解先确认部位关系和目标年龄，再减少文字、箭头与装饰。",
+    "use_for": ["幼儿教育", "科普卡片", "产品部件入门"],
+    "limits": "准确名称和局部形态仍需核查；不能靠模型自行编造词汇。",
+    "evidence_scope": "已审阅公开案例文字；未独立验证其生成成功率。"
+  }
+]

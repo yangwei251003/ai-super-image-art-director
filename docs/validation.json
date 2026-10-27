@@ -1,0 +1,39 @@
+{
+  "synthetic": true,
+  "image_model_or_service_called": false,
+  "reference_images_read_or_uploaded": false,
+  "styles": 53,
+  "selected_style_ids": [
+    "annotated_product_story",
+    "kinetic_clay",
+    "data_constellation"
+  ],
+  "selected_families": [
+    "product_ad",
+    "three_d",
+    "technology"
+  ],
+  "prompt_packages": 3,
+  "exact_text_preserved": true,
+  "QA_is_synthetic_input_not_visual_inspection": true,
+  "QA_uncertain_action": "regenerate",
+  "QA_limit_action": "failed_preview",
+  "export_source_pixels": [
+    320,
+    180
+  ],
+  "export_pixels": [
+    480,
+    640
+  ],
+  "padding": {
+    "left": 0,
+    "top": 185,
+    "right": 0,
+    "bottom": 185
+  },
+  "crop_without_approval_blocked": true,
+  "same_input_output_blocked": true,
+  "input_unchanged": true,
+  "model_quality_or_host_session_tested": false
+}

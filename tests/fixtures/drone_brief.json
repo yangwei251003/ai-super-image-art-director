@@ -1,0 +1,20 @@
+{
+  "subject": "可见四个机臂与四个电机的四臂FPV四旋翼无人机，机头有朝前的摄像头",
+  "environment": "真实的大学工程实验室，安全静置展示",
+  "industry": "aerospace",
+  "use_case": "technology",
+  "goal_tags": ["education", "recruitment"],
+  "audience_tags": ["students"],
+  "emotion_tags": ["innovative", "trustworthy"],
+  "platform_tags": ["poster"],
+  "width": 1024,
+  "height": 1536,
+  "image_count": 1,
+  "exact_text": ["无人机社团招新"],
+  "brand_constraints": ["无现成品牌徽标；这是概念宣传图"],
+  "must_have": ["恰好四个机臂", "恰好四个电机与对应桨位", "朝前的FPV摄像头", "部件连接合理"],
+  "avoid_terms": ["六旋翼", "三旋翼", "虚构企业名"],
+  "avoid_style_ids": [],
+  "avoid_families": [],
+  "reference_images": []
+}

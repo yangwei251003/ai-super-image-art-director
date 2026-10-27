@@ -1,0 +1,24 @@
+{
+  "styles": 53,
+  "style_coverage": {
+    "corporate": 18,
+    "education": 11,
+    "festival": 10,
+    "illustration": 15,
+    "international_graphic": 9,
+    "luxury": 4,
+    "oriental": 4,
+    "photography": 9,
+    "product_ad": 10,
+    "recruitment": 9,
+    "technology": 9,
+    "three_d": 4
+  },
+  "industries": 20,
+  "priority_use_cases": 8,
+  "domain_validators": 3,
+  "case_studies": 10,
+  "new_directions": 5,
+  "gallery_patterns": 9,
+  "unique_style_source_urls": 22
+}

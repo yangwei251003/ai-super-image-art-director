@@ -1,0 +1,21 @@
+{
+  "style_id": "kinetic_clay",
+  "style_name": "动态黏土",
+  "positive_prompt": "以a fictional geometric device made only of circles and rectangles; not a real product为主体，置于a clearly labeled synthetic demonstration canvas。采用“动态黏土”的原创视觉语言：用可触摸的形变表现活力与变化。画面体现柔软挤压、序列节拍、手作边缘；连续体块由小到大跃动；明亮棚拍光；材质为黏土与柔性橡胶；视角为低角度近景。预留清晰文字区域，保持主体可辨与事实准确。",
+  "negative_prompt": [
+    "塑料光污染",
+    "过度复杂纹理",
+    "现成品牌标识",
+    "他人专有版式",
+    "cyberpunk"
+  ],
+  "composition_prompt": "连续体块由小到大跃动",
+  "lighting_prompt": "明亮棚拍光",
+  "material_prompt": "黏土与柔性橡胶",
+  "camera_or_viewpoint_prompt": "低角度近景",
+  "exact_text": [
+    "SYNTHETIC DEMO",
+    "NO MODEL OUTPUT"
+  ],
+  "compiled_prompt": "作品用途：poster；slide。\n主体：a fictional geometric device made only of circles and rectangles; not a real product。\n环境：a clearly labeled synthetic demonstration canvas。\n视觉方向：动态黏土。核心理念：用可触摸的形变表现活力与变化。\n正向画面：以a fictional geometric device made only of circles and rectangles; not a real product为主体，置于a clearly labeled synthetic demonstration canvas。采用“动态黏土”的原创视觉语言：用可触摸的形变表现活力与变化。画面体现柔软挤压、序列节拍、手作边缘；连续体块由小到大跃动；明亮棚拍光；材质为黏土与柔性橡胶；视角为低角度近景。预留清晰文字区域，保持主体可辨与事实准确。。\n构图：连续体块由小到大跃动。\n镜头或视角：低角度近景。\n光影：明亮棚拍光。\n材质和表面细节：黏土与柔性橡胶。\n真实细节：主体结构、接触、透视、光源、阴影和数量须与用户要求一致；若明确为幻想场景，则保持设定内部一致。\n必须满足的可核查事实：geometric illustration only；identify the result as a synthetic demonstration。\n品牌约束：No real brand, person, account, contact detail or product claim。不自行创造未提供的徽标、产品参数或宣传事实。\n图中必须逐字、清晰地呈现且仅呈现这些文字：「SYNTHETIC DEMO」；「NO MODEL OUTPUT」。除此之外，墙面、屏幕、纸张、书脊、衣服及背景均不得出现任何可读文字、伪文字或品牌标识。不得增删或错写指定文案。\n目标画幅：480 × 640 像素的比例；保留安全边距，主体和文字不得贴边。\n避免：塑料光污染；过度复杂纹理；现成品牌标识；他人专有版式；cyberpunk。"
+}

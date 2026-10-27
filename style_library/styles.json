@@ -1,0 +1,2746 @@
+[
+  {
+    "id": "signal_gradient",
+    "name_zh": "信号渐层",
+    "name_en": "Signal Gradient",
+    "family": "technology",
+    "philosophy": "以连续色阶表达技术状态的流动与清晰",
+    "visual_traits": [
+      "层级光带",
+      "细密标尺",
+      "有序留白"
+    ],
+    "use_cases": [
+      "technology",
+      "corporate"
+    ],
+    "industry_tags": [
+      "technology",
+      "aerospace",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "awareness",
+      "trust"
+    ],
+    "audience_tags": [
+      "professionals",
+      "business_buyers"
+    ],
+    "emotion_tags": [
+      "innovative",
+      "confident"
+    ],
+    "platform_tags": [
+      "poster",
+      "web",
+      "slide"
+    ],
+    "color_palette": "深海蓝、青绿、少量暖橙",
+    "composition": "左侧主体，右侧信息梯度",
+    "lighting": "柔和边缘光",
+    "materials": "半透明薄膜与磨砂界面",
+    "camera_viewpoint": "正面略俯视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“信号渐层”的原创视觉语言：以连续色阶表达技术状态的流动与清晰。画面体现层级光带、细密标尺、有序留白；左侧主体，右侧信息梯度；柔和边缘光；材质为半透明薄膜与磨砂界面；视角为正面略俯视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "杂乱发光线",
+      "不可读微字",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "严肃危机警报"
+    ],
+    "source_urls": [
+      "https://design.google/library/expressive-material-design-google-research",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "modular_interface",
+    "name_zh": "模块界面",
+    "name_en": "Modular Interface",
+    "family": "technology",
+    "philosophy": "让抽象系统变成可阅读的模块关系",
+    "visual_traits": [
+      "圆角模块",
+      "明确间距",
+      "克制图标"
+    ],
+    "use_cases": [
+      "technology",
+      "corporate"
+    ],
+    "industry_tags": [
+      "technology",
+      "aerospace",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "awareness",
+      "trust"
+    ],
+    "audience_tags": [
+      "professionals",
+      "business_buyers"
+    ],
+    "emotion_tags": [
+      "innovative",
+      "confident"
+    ],
+    "platform_tags": [
+      "poster",
+      "web",
+      "slide"
+    ],
+    "color_palette": "石墨灰、薄荷绿、暖白",
+    "composition": "以功能模块围绕主体构成网格",
+    "lighting": "均匀漫射光",
+    "materials": "哑光屏幕与轻薄卡片",
+    "camera_viewpoint": "正交视角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“模块界面”的原创视觉语言：让抽象系统变成可阅读的模块关系。画面体现圆角模块、明确间距、克制图标；以功能模块围绕主体构成网格；均匀漫射光；材质为哑光屏幕与轻薄卡片；视角为正交视角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "假数据图表",
+      "过密标签",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "需要真实数据证明的图表"
+    ],
+    "source_urls": [
+      "https://design.google/library/material-design-eras",
+      "https://design.google/library/expressive-material-design-google-research"
+    ]
+  },
+  {
+    "id": "data_constellation",
+    "name_zh": "数据星群",
+    "name_en": "Data Constellation",
+    "family": "technology",
+    "philosophy": "用可追溯数据点构成叙事图像，而非假装精确的统计",
+    "visual_traits": [
+      "离散节点",
+      "疏密节奏",
+      "清晰图例留位"
+    ],
+    "use_cases": [
+      "technology",
+      "corporate"
+    ],
+    "industry_tags": [
+      "technology",
+      "aerospace",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "awareness",
+      "trust"
+    ],
+    "audience_tags": [
+      "professionals",
+      "business_buyers"
+    ],
+    "emotion_tags": [
+      "innovative",
+      "confident"
+    ],
+    "platform_tags": [
+      "poster",
+      "web",
+      "slide"
+    ],
+    "color_palette": "午夜蓝、冷白、珊瑚红",
+    "composition": "真实可标注的节点从主体向外扩散",
+    "lighting": "低照度点光",
+    "materials": "微粒与细线",
+    "camera_viewpoint": "轴测远景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“数据星群”的原创视觉语言：用可追溯数据点构成叙事图像，而非假装精确的统计。画面体现离散节点、疏密节奏、清晰图例留位；真实可标注的节点从主体向外扩散；低照度点光；材质为微粒与细线；视角为轴测远景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "伪造数字",
+      "不可解释图表",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "医疗或金融决策图中缺少数据核验"
+    ],
+    "source_urls": [
+      "https://design.google/library/expressive-material-design-google-research",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "quiet_future",
+    "name_zh": "静谧未来",
+    "name_en": "Quiet Future",
+    "family": "technology",
+    "philosophy": "用适度技术感传达可靠与可接近",
+    "visual_traits": [
+      "低饱和渐变",
+      "单一焦点",
+      "宽阔呼吸区"
+    ],
+    "use_cases": [
+      "technology",
+      "corporate"
+    ],
+    "industry_tags": [
+      "technology",
+      "aerospace",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "awareness",
+      "trust"
+    ],
+    "audience_tags": [
+      "professionals",
+      "business_buyers"
+    ],
+    "emotion_tags": [
+      "innovative",
+      "confident"
+    ],
+    "platform_tags": [
+      "poster",
+      "web",
+      "slide"
+    ],
+    "color_palette": "雾蓝、米白、浅银",
+    "composition": "中央主体与宽边距",
+    "lighting": "清晨漫射光",
+    "materials": "细腻陶瓷与低反射金属",
+    "camera_viewpoint": "平视中景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“静谧未来”的原创视觉语言：用适度技术感传达可靠与可接近。画面体现低饱和渐变、单一焦点、宽阔呼吸区；中央主体与宽边距；清晨漫射光；材质为细腻陶瓷与低反射金属；视角为平视中景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "赛博城市陈词滥调",
+      "过曝霓虹",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "要求强烈节庆氛围"
+    ],
+    "source_urls": [
+      "https://design.google/library/expressive-material-design-google-research",
+      "https://business.adobe.com/au/resources/creative-trends-report.html"
+    ]
+  },
+  {
+    "id": "evidence_grid",
+    "name_zh": "证据网格",
+    "name_en": "Evidence Grid",
+    "family": "corporate",
+    "philosophy": "用整齐的证据层级建立可信度",
+    "visual_traits": [
+      "基线对齐",
+      "可核验图表占位",
+      "明确标题区"
+    ],
+    "use_cases": [
+      "corporate",
+      "international_graphic"
+    ],
+    "industry_tags": [
+      "finance",
+      "professional_services",
+      "government"
+    ],
+    "goal_tags": [
+      "trust",
+      "awareness"
+    ],
+    "audience_tags": [
+      "business_buyers",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "trustworthy",
+      "confident"
+    ],
+    "platform_tags": [
+      "slide",
+      "web",
+      "print"
+    ],
+    "color_palette": "海军蓝、白、浅灰",
+    "composition": "三栏网格与大幅事实区",
+    "lighting": "均匀办公自然光",
+    "materials": "纸面与轻量图形",
+    "camera_viewpoint": "正面平视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“证据网格”的原创视觉语言：用整齐的证据层级建立可信度。画面体现基线对齐、可核验图表占位、明确标题区；三栏网格与大幅事实区；均匀办公自然光；材质为纸面与轻量图形；视角为正面平视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "虚构认证章",
+      "假的数字",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "缺少已批准事实材料"
+    ],
+    "source_urls": [
+      "https://www.cooperhewitt.org/publications/how-posters-work/",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "human_scale_enterprise",
+    "name_zh": "有人尺度",
+    "name_en": "Human Scale Enterprise",
+    "family": "corporate",
+    "philosophy": "以真实工作情境呈现组织能力",
+    "visual_traits": [
+      "真实协作细节",
+      "轻量注释",
+      "克制背景"
+    ],
+    "use_cases": [
+      "corporate",
+      "international_graphic"
+    ],
+    "industry_tags": [
+      "finance",
+      "professional_services",
+      "government"
+    ],
+    "goal_tags": [
+      "trust",
+      "awareness"
+    ],
+    "audience_tags": [
+      "business_buyers",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "trustworthy",
+      "confident"
+    ],
+    "platform_tags": [
+      "slide",
+      "web",
+      "print"
+    ],
+    "color_palette": "暖灰、深蓝、赭石",
+    "composition": "人物互动占主视觉，文字位在下方",
+    "lighting": "窗边自然侧光",
+    "materials": "真实纸张与办公织物",
+    "camera_viewpoint": "环境肖像视角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“有人尺度”的原创视觉语言：以真实工作情境呈现组织能力。画面体现真实协作细节、轻量注释、克制背景；人物互动占主视觉，文字位在下方；窗边自然侧光；材质为真实纸张与办公织物；视角为环境肖像视角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "摆拍握手",
+      "虚构奖杯",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "需要匿名保护的内部场景"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html",
+      "https://business.adobe.com/au/resources/creative-trends-report.html"
+    ]
+  },
+  {
+    "id": "circular_material_report",
+    "name_zh": "循环材料报告",
+    "name_en": "Circular Material Report",
+    "family": "corporate",
+    "philosophy": "把材料来源与循环路径变成可解释的视觉",
+    "visual_traits": [
+      "材料切面",
+      "闭环箭头",
+      "生命周期留位"
+    ],
+    "use_cases": [
+      "corporate",
+      "international_graphic"
+    ],
+    "industry_tags": [
+      "finance",
+      "professional_services",
+      "government"
+    ],
+    "goal_tags": [
+      "trust",
+      "awareness"
+    ],
+    "audience_tags": [
+      "business_buyers",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "trustworthy",
+      "confident"
+    ],
+    "platform_tags": [
+      "slide",
+      "web",
+      "print"
+    ],
+    "color_palette": "纤维白、苔绿、炭灰",
+    "composition": "材料样本围绕简洁流程排列",
+    "lighting": "柔和顶部光",
+    "materials": "再生纤维、可拆结构",
+    "camera_viewpoint": "俯拍近景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“循环材料报告”的原创视觉语言：把材料来源与循环路径变成可解释的视觉。画面体现材料切面、闭环箭头、生命周期留位；材料样本围绕简洁流程排列；柔和顶部光；材质为再生纤维、可拆结构；视角为俯拍近景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "无依据环保标章",
+      "塑料叶子符号",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "没有供应链数据却宣称低碳"
+    ],
+    "source_urls": [
+      "https://www.ellenmacarthurfoundation.org/material-selection",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "accessible_authority",
+    "name_zh": "清晰权威",
+    "name_en": "Accessible Authority",
+    "family": "corporate",
+    "philosophy": "优先保证信息可读，再用节制的色彩建立权威",
+    "visual_traits": [
+      "大字阶",
+      "高对比",
+      "稳定版心"
+    ],
+    "use_cases": [
+      "corporate",
+      "international_graphic"
+    ],
+    "industry_tags": [
+      "finance",
+      "professional_services",
+      "government"
+    ],
+    "goal_tags": [
+      "trust",
+      "awareness"
+    ],
+    "audience_tags": [
+      "business_buyers",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "trustworthy",
+      "confident"
+    ],
+    "platform_tags": [
+      "slide",
+      "web",
+      "print"
+    ],
+    "color_palette": "深蓝、暖白、亮黄点缀",
+    "composition": "主标题与关键信息形成明确阅读顺序",
+    "lighting": "均匀无眩光",
+    "materials": "无纹理纯色面与纸张",
+    "camera_viewpoint": "正视图",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“清晰权威”的原创视觉语言：优先保证信息可读，再用节制的色彩建立权威。画面体现大字阶、高对比、稳定版心；主标题与关键信息形成明确阅读顺序；均匀无眩光；材质为无纹理纯色面与纸张；视角为正视图。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "低对比浅灰字",
+      "细小脚注",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "需要大量复杂插画的儿童活动"
+    ],
+    "source_urls": [
+      "https://www.w3.org/TR/wcag/",
+      "https://www.cooperhewitt.org/publications/how-posters-work/"
+    ]
+  },
+  {
+    "id": "open_door",
+    "name_zh": "开放入口",
+    "name_en": "Open Door",
+    "family": "recruitment",
+    "philosophy": "以真实参与路径吸引候选人",
+    "visual_traits": [
+      "人物视线引导",
+      "开放空间",
+      "清晰行动区"
+    ],
+    "use_cases": [
+      "recruitment",
+      "corporate"
+    ],
+    "industry_tags": [
+      "technology",
+      "manufacturing",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "recruitment",
+      "engagement"
+    ],
+    "audience_tags": [
+      "professionals",
+      "students"
+    ],
+    "emotion_tags": [
+      "warm",
+      "confident"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "web"
+    ],
+    "color_palette": "珊瑚橙、奶油白、墨蓝",
+    "composition": "入口透视指向真实团队",
+    "lighting": "温暖日光",
+    "materials": "木材、纸张与真实办公物件",
+    "camera_viewpoint": "人眼高度广角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“开放入口”的原创视觉语言：以真实参与路径吸引候选人。画面体现人物视线引导、开放空间、清晰行动区；入口透视指向真实团队；温暖日光；材质为木材、纸张与真实办公物件；视角为人眼高度广角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "统一模板笑脸",
+      "假职位文字",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "无法获得人物使用授权"
+    ],
+    "source_urls": [
+      "https://business.adobe.com/au/resources/creative-trends-report.html",
+      "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html"
+    ]
+  },
+  {
+    "id": "craft_at_work",
+    "name_zh": "工作中的技艺",
+    "name_en": "Craft at Work",
+    "family": "recruitment",
+    "philosophy": "呈现具体技能、工具与工作成果",
+    "visual_traits": [
+      "手部动作",
+      "真实工具",
+      "成果局部"
+    ],
+    "use_cases": [
+      "recruitment",
+      "corporate"
+    ],
+    "industry_tags": [
+      "technology",
+      "manufacturing",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "recruitment",
+      "engagement"
+    ],
+    "audience_tags": [
+      "professionals",
+      "students"
+    ],
+    "emotion_tags": [
+      "warm",
+      "confident"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "web"
+    ],
+    "color_palette": "工坊灰、铜色、米白",
+    "composition": "近景动作与远景成品互相呼应",
+    "lighting": "工作台侧光",
+    "materials": "金属、木材、织物按行业选择",
+    "camera_viewpoint": "纪录片式半身近景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“工作中的技艺”的原创视觉语言：呈现具体技能、工具与工作成果。画面体现手部动作、真实工具、成果局部；近景动作与远景成品互相呼应；工作台侧光；材质为金属、木材、织物按行业选择；视角为纪录片式半身近景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "过度磨皮",
+      "假安全装备",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "高风险工种未核对防护规范"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html",
+      "https://www.adobe.com/creativecloud/photography/type/product-photography.html"
+    ]
+  },
+  {
+    "id": "pathway_map",
+    "name_zh": "成长路径",
+    "name_en": "Pathway Map",
+    "family": "recruitment",
+    "philosophy": "让学习和发展机会可视且不暗示保证",
+    "visual_traits": [
+      "阶段节点",
+      "方向箭头",
+      "人物里程碑"
+    ],
+    "use_cases": [
+      "recruitment",
+      "corporate"
+    ],
+    "industry_tags": [
+      "technology",
+      "manufacturing",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "recruitment",
+      "engagement"
+    ],
+    "audience_tags": [
+      "professionals",
+      "students"
+    ],
+    "emotion_tags": [
+      "warm",
+      "confident"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "web"
+    ],
+    "color_palette": "青绿、靛蓝、暖白",
+    "composition": "从左下到右上的清楚路径",
+    "lighting": "明亮柔光",
+    "materials": "纸卡和轻量矢量线",
+    "camera_viewpoint": "等距俯视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“成长路径”的原创视觉语言：让学习和发展机会可视且不暗示保证。画面体现阶段节点、方向箭头、人物里程碑；从左下到右上的清楚路径；明亮柔光；材质为纸卡和轻量矢量线；视角为等距俯视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "保证升职语句",
+      "密集微字",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "岗位成长路径未经确认"
+    ],
+    "source_urls": [
+      "https://design.google/library/expressive-material-design-google-research",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "peer_story_mosaic",
+    "name_zh": "同伴故事拼图",
+    "name_en": "Peer Story Mosaic",
+    "family": "recruitment",
+    "philosophy": "用多元个体的真实片段呈现团队归属",
+    "visual_traits": [
+      "不同职业姿态",
+      "大小不一照片格",
+      "统一边距"
+    ],
+    "use_cases": [
+      "recruitment",
+      "corporate"
+    ],
+    "industry_tags": [
+      "technology",
+      "manufacturing",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "recruitment",
+      "engagement"
+    ],
+    "audience_tags": [
+      "professionals",
+      "students"
+    ],
+    "emotion_tags": [
+      "warm",
+      "confident"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "web"
+    ],
+    "color_palette": "酒红、沙色、深绿",
+    "composition": "多人物格围绕单一招聘信息区",
+    "lighting": "一致自然光",
+    "materials": "照片与低纹理纸面",
+    "camera_viewpoint": "平视组照",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“同伴故事拼图”的原创视觉语言：用多元个体的真实片段呈现团队归属。画面体现不同职业姿态、大小不一照片格、统一边距；多人物格围绕单一招聘信息区；一致自然光；材质为照片与低纹理纸面；视角为平视组照。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "象征性多元面孔",
+      "虚构员工引语",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "无法获得肖像许可"
+    ],
+    "source_urls": [
+      "https://business.adobe.com/au/resources/creative-trends-report.html",
+      "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html"
+    ]
+  },
+  {
+    "id": "learning_landscape",
+    "name_zh": "学习地形",
+    "name_en": "Learning Landscape",
+    "family": "education",
+    "philosophy": "把概念之间的关系绘为可探索的路径",
+    "visual_traits": [
+      "层次地形",
+      "知识节点",
+      "方向线"
+    ],
+    "use_cases": [
+      "education",
+      "illustration"
+    ],
+    "industry_tags": [
+      "education",
+      "children",
+      "culture"
+    ],
+    "goal_tags": [
+      "education",
+      "engagement"
+    ],
+    "audience_tags": [
+      "students",
+      "families",
+      "children"
+    ],
+    "emotion_tags": [
+      "playful",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "slide",
+      "web"
+    ],
+    "color_palette": "湖蓝、草绿、米白",
+    "composition": "主体位于入口，知识点沿路径展开",
+    "lighting": "晴朗漫射光",
+    "materials": "纸面拼贴与清晰矢量",
+    "camera_viewpoint": "斜俯视全景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“学习地形”的原创视觉语言：把概念之间的关系绘为可探索的路径。画面体现层次地形、知识节点、方向线；主体位于入口，知识点沿路径展开；晴朗漫射光；材质为纸面拼贴与清晰矢量；视角为斜俯视全景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "无法解释的符号",
+      "路径死角",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "考试答案需要精确表达的页面"
+    ],
+    "source_urls": [
+      "https://www.cooperhewitt.org/publications/how-posters-work/",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "experiment_table",
+    "name_zh": "实验桌",
+    "name_en": "Experiment Table",
+    "family": "education",
+    "philosophy": "以真实观察和动手过程激发好奇",
+    "visual_traits": [
+      "实验器具",
+      "步骤留位",
+      "清楚因果"
+    ],
+    "use_cases": [
+      "education",
+      "illustration"
+    ],
+    "industry_tags": [
+      "education",
+      "children",
+      "culture"
+    ],
+    "goal_tags": [
+      "education",
+      "engagement"
+    ],
+    "audience_tags": [
+      "students",
+      "families",
+      "children"
+    ],
+    "emotion_tags": [
+      "playful",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "slide",
+      "web"
+    ],
+    "color_palette": "白、柠檬黄、钴蓝",
+    "composition": "俯拍桌面，工具按步骤排列",
+    "lighting": "无阴影软光",
+    "materials": "玻璃、纸张、安全器材",
+    "camera_viewpoint": "垂直俯拍",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“实验桌”的原创视觉语言：以真实观察和动手过程激发好奇。画面体现实验器具、步骤留位、清楚因果；俯拍桌面，工具按步骤排列；无阴影软光；材质为玻璃、纸张、安全器材；视角为垂直俯拍。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "危险操作示范",
+      "错置器材",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "实验安全要求未经专家审查"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/type/product-photography.html",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "accessible_diagram",
+    "name_zh": "易读图解",
+    "name_en": "Accessible Diagram",
+    "family": "education",
+    "philosophy": "为不同阅读能力保留同样的信息入口",
+    "visual_traits": [
+      "高对比轮廓",
+      "图文双编码",
+      "可放大留白"
+    ],
+    "use_cases": [
+      "education",
+      "illustration"
+    ],
+    "industry_tags": [
+      "education",
+      "children",
+      "culture"
+    ],
+    "goal_tags": [
+      "education",
+      "engagement"
+    ],
+    "audience_tags": [
+      "students",
+      "families",
+      "children"
+    ],
+    "emotion_tags": [
+      "playful",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "slide",
+      "web"
+    ],
+    "color_palette": "深蓝、白、橙",
+    "composition": "从标题到三步图解的顺序",
+    "lighting": "均匀光",
+    "materials": "矢量形状与清晰文字区",
+    "camera_viewpoint": "正视图",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“易读图解”的原创视觉语言：为不同阅读能力保留同样的信息入口。画面体现高对比轮廓、图文双编码、可放大留白；从标题到三步图解的顺序；均匀光；材质为矢量形状与清晰文字区；视角为正视图。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "只靠颜色编码",
+      "密集小字",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "必须承载大量长篇正文"
+    ],
+    "source_urls": [
+      "https://www.w3.org/TR/wcag/",
+      "https://design.google/library/expressive-material-design-google-research"
+    ]
+  },
+  {
+    "id": "community_curriculum",
+    "name_zh": "社区知识地图",
+    "name_en": "Community Curriculum",
+    "family": "education",
+    "philosophy": "让本地知识与参与者共同定义教学素材",
+    "visual_traits": [
+      "可替换本地素材",
+      "署名留位",
+      "共同标注"
+    ],
+    "use_cases": [
+      "education",
+      "illustration"
+    ],
+    "industry_tags": [
+      "education",
+      "children",
+      "culture"
+    ],
+    "goal_tags": [
+      "education",
+      "engagement"
+    ],
+    "audience_tags": [
+      "students",
+      "families",
+      "children"
+    ],
+    "emotion_tags": [
+      "playful",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "slide",
+      "web"
+    ],
+    "color_palette": "土黄、河蓝、炭黑",
+    "composition": "地图中心连接人物和在地资源",
+    "lighting": "自然日光",
+    "materials": "手绘地图与真实纸张",
+    "camera_viewpoint": "俯瞰地图视角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“社区知识地图”的原创视觉语言：让本地知识与参与者共同定义教学素材。画面体现可替换本地素材、署名留位、共同标注；地图中心连接人物和在地资源；自然日光；材质为手绘地图与真实纸张；视角为俯瞰地图视角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "挪用仪式图案",
+      "无出处民俗元素",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "尚未取得社区参与或许可"
+    ],
+    "source_urls": [
+      "https://business.adobe.com/au/resources/creative-trends-report.html",
+      "https://www.unesco.org/en/articles/making-indonesian-indigenous-language-scripts-available-online"
+    ]
+  },
+  {
+    "id": "clean_product_stage",
+    "name_zh": "纯净商品台",
+    "name_en": "Clean Product Stage",
+    "family": "product_ad",
+    "philosophy": "用可核实的外观与尺度展示商品",
+    "visual_traits": [
+      "准确轮廓",
+      "单一投影",
+      "清楚空白"
+    ],
+    "use_cases": [
+      "product_ad",
+      "photography"
+    ],
+    "industry_tags": [
+      "ecommerce",
+      "food",
+      "fashion"
+    ],
+    "goal_tags": [
+      "conversion",
+      "awareness"
+    ],
+    "audience_tags": [
+      "consumers",
+      "premium_buyers"
+    ],
+    "emotion_tags": [
+      "energetic",
+      "premium"
+    ],
+    "platform_tags": [
+      "ecommerce",
+      "social",
+      "poster"
+    ],
+    "color_palette": "中性灰、暖白、品牌可替换色",
+    "composition": "商品居中，四周留文案区",
+    "lighting": "双侧柔光",
+    "materials": "商品真实材质",
+    "camera_viewpoint": "三分之四产品视角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“纯净商品台”的原创视觉语言：用可核实的外观与尺度展示商品。画面体现准确轮廓、单一投影、清楚空白；商品居中，四周留文案区；双侧柔光；材质为商品真实材质；视角为三分之四产品视角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "变形商标",
+      "虚构功能细节",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "尺寸和材质尚未核验"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/type/product-photography.html",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "sensory_macro",
+    "name_zh": "感官微距",
+    "name_en": "Sensory Macro",
+    "family": "product_ad",
+    "philosophy": "通过可见纹理传达触觉与新鲜度",
+    "visual_traits": [
+      "微观质感",
+      "局部焦点",
+      "浅景深"
+    ],
+    "use_cases": [
+      "product_ad",
+      "photography"
+    ],
+    "industry_tags": [
+      "ecommerce",
+      "food",
+      "fashion"
+    ],
+    "goal_tags": [
+      "conversion",
+      "awareness"
+    ],
+    "audience_tags": [
+      "consumers",
+      "premium_buyers"
+    ],
+    "emotion_tags": [
+      "energetic",
+      "premium"
+    ],
+    "platform_tags": [
+      "ecommerce",
+      "social",
+      "poster"
+    ],
+    "color_palette": "蜂蜜金、莓红、深棕",
+    "composition": "材质特写占画面三分之二",
+    "lighting": "斜侧小面积柔光",
+    "materials": "真实食物或产品表面",
+    "camera_viewpoint": "微距平视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“感官微距”的原创视觉语言：通过可见纹理传达触觉与新鲜度。画面体现微观质感、局部焦点、浅景深；材质特写占画面三分之二；斜侧小面积柔光；材质为真实食物或产品表面；视角为微距平视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "不真实水珠",
+      "虚构成分",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "食品功效暗示未经证实"
+    ],
+    "source_urls": [
+      "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/in-focus-experimenting-with-macro-photography-at-home",
+      "https://business.adobe.com/au/resources/creative-trends-report.html"
+    ]
+  },
+  {
+    "id": "contextual_usage",
+    "name_zh": "情境使用",
+    "name_en": "Contextual Usage",
+    "family": "product_ad",
+    "philosophy": "让商品作用在真实使用场景中被理解",
+    "visual_traits": [
+      "手部交互",
+      "场景线索",
+      "自然尺度"
+    ],
+    "use_cases": [
+      "product_ad",
+      "photography"
+    ],
+    "industry_tags": [
+      "ecommerce",
+      "food",
+      "fashion"
+    ],
+    "goal_tags": [
+      "conversion",
+      "awareness"
+    ],
+    "audience_tags": [
+      "consumers",
+      "premium_buyers"
+    ],
+    "emotion_tags": [
+      "energetic",
+      "premium"
+    ],
+    "platform_tags": [
+      "ecommerce",
+      "social",
+      "poster"
+    ],
+    "color_palette": "暖白、陶土、青灰",
+    "composition": "使用动作居前，环境提供轻量语境",
+    "lighting": "窗边自然光",
+    "materials": "生活材质与商品原材质",
+    "camera_viewpoint": "人眼高度近景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“情境使用”的原创视觉语言：让商品作用在真实使用场景中被理解。画面体现手部交互、场景线索、自然尺度；使用动作居前，环境提供轻量语境；窗边自然光；材质为生活材质与商品原材质；视角为人眼高度近景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "不可能使用姿势",
+      "虚构接口",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "产品安全用法未核对"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/type/product-photography.html",
+      "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html"
+    ]
+  },
+  {
+    "id": "modular_commerce",
+    "name_zh": "模块化电商",
+    "name_en": "Modular Commerce",
+    "family": "product_ad",
+    "philosophy": "为不同尺寸商品图建立一致可比的展示",
+    "visual_traits": [
+      "一致视角",
+      "明确价格区留位",
+      "可替换色块"
+    ],
+    "use_cases": [
+      "product_ad",
+      "photography"
+    ],
+    "industry_tags": [
+      "ecommerce",
+      "food",
+      "fashion"
+    ],
+    "goal_tags": [
+      "conversion",
+      "awareness"
+    ],
+    "audience_tags": [
+      "consumers",
+      "premium_buyers"
+    ],
+    "emotion_tags": [
+      "energetic",
+      "premium"
+    ],
+    "platform_tags": [
+      "ecommerce",
+      "social",
+      "poster"
+    ],
+    "color_palette": "白、深墨、浅青",
+    "composition": "同规格商品卡成组排列",
+    "lighting": "均匀柔光",
+    "materials": "哑光底台与实物材质",
+    "camera_viewpoint": "统一三分之四视角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“模块化电商”的原创视觉语言：为不同尺寸商品图建立一致可比的展示。画面体现一致视角、明确价格区留位、可替换色块；同规格商品卡成组排列；均匀柔光；材质为哑光底台与实物材质；视角为统一三分之四视角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "假折扣贴纸",
+      "夸大比例",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "商品之间尺寸差异关键但未说明"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/type/product-photography.html",
+      "https://design.google/library/expressive-material-design-google-research"
+    ]
+  },
+  {
+    "id": "lantern_rhythm",
+    "name_zh": "灯影节奏",
+    "name_en": "Lantern Rhythm",
+    "family": "festival",
+    "philosophy": "以节奏化光点营造公共节庆氛围",
+    "visual_traits": [
+      "灯点重复",
+      "人群尺度",
+      "温暖明暗"
+    ],
+    "use_cases": [
+      "festival",
+      "illustration"
+    ],
+    "industry_tags": [
+      "culture",
+      "tourism",
+      "entertainment"
+    ],
+    "goal_tags": [
+      "celebration",
+      "engagement"
+    ],
+    "audience_tags": [
+      "families",
+      "public"
+    ],
+    "emotion_tags": [
+      "festive",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "print"
+    ],
+    "color_palette": "朱红、金黄、夜蓝",
+    "composition": "上方灯带引向中央聚会",
+    "lighting": "温暖点光与环境补光",
+    "materials": "纸灯、布面、城市街道",
+    "camera_viewpoint": "街道平视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“灯影节奏”的原创视觉语言：以节奏化光点营造公共节庆氛围。画面体现灯点重复、人群尺度、温暖明暗；上方灯带引向中央聚会；温暖点光与环境补光；材质为纸灯、布面、城市街道；视角为街道平视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "具体节俗混用",
+      "火灾不安全场景",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "文化归属尚未核实"
+    ],
+    "source_urls": [
+      "https://business.adobe.com/au/resources/creative-trends-report.html",
+      "https://www.unesco.org/en/articles/making-indonesian-indigenous-language-scripts-available-online"
+    ]
+  },
+  {
+    "id": "shared_table",
+    "name_zh": "团圆长桌",
+    "name_en": "Shared Table",
+    "family": "festival",
+    "philosophy": "用人与食物的关系表达共享时刻",
+    "visual_traits": [
+      "围桌互动",
+      "真实食物",
+      "细节留白"
+    ],
+    "use_cases": [
+      "festival",
+      "illustration"
+    ],
+    "industry_tags": [
+      "culture",
+      "tourism",
+      "entertainment"
+    ],
+    "goal_tags": [
+      "celebration",
+      "engagement"
+    ],
+    "audience_tags": [
+      "families",
+      "public"
+    ],
+    "emotion_tags": [
+      "festive",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "print"
+    ],
+    "color_palette": "栗红、橙、米白",
+    "composition": "长桌对角线串联多人动作",
+    "lighting": "烛光与柔和补光",
+    "materials": "餐具、织物、食物",
+    "camera_viewpoint": "桌边人眼视角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“团圆长桌”的原创视觉语言：用人与食物的关系表达共享时刻。画面体现围桌互动、真实食物、细节留白；长桌对角线串联多人动作；烛光与柔和补光；材质为餐具、织物、食物；视角为桌边人眼视角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "刻板家庭形象",
+      "错季食物",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "节庆包含禁忌或饮食限制"
+    ],
+    "source_urls": [
+      "https://business.adobe.com/au/resources/creative-trends-report.html",
+      "https://www.adobe.com/creativecloud/photography/type/product-photography.html"
+    ]
+  },
+  {
+    "id": "paper_parade",
+    "name_zh": "纸艺巡游",
+    "name_en": "Paper Parade",
+    "family": "festival",
+    "philosophy": "把节日图形设计成可重复使用的纸构件",
+    "visual_traits": [
+      "纸折层次",
+      "欢快队列",
+      "可替换图案"
+    ],
+    "use_cases": [
+      "festival",
+      "illustration"
+    ],
+    "industry_tags": [
+      "culture",
+      "tourism",
+      "entertainment"
+    ],
+    "goal_tags": [
+      "celebration",
+      "engagement"
+    ],
+    "audience_tags": [
+      "families",
+      "public"
+    ],
+    "emotion_tags": [
+      "festive",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "print"
+    ],
+    "color_palette": "胭脂红、松绿、奶油黄",
+    "composition": "图形从边缘向中心游行",
+    "lighting": "均匀明亮光",
+    "materials": "可回收纸与简单插接件",
+    "camera_viewpoint": "略俯视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“纸艺巡游”的原创视觉语言：把节日图形设计成可重复使用的纸构件。画面体现纸折层次、欢快队列、可替换图案；图形从边缘向中心游行；均匀明亮光；材质为可回收纸与简单插接件；视角为略俯视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "一次性塑料亮片",
+      "挪用图腾",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "实际物料无法回收时的环保宣称"
+    ],
+    "source_urls": [
+      "https://www.ellenmacarthurfoundation.org/material-selection",
+      "https://business.adobe.com/au/resources/creative-trends-report.html"
+    ]
+  },
+  {
+    "id": "local_festival_voice",
+    "name_zh": "地方节庆声纹",
+    "name_en": "Local Festival Voice",
+    "family": "festival",
+    "philosophy": "由当地参与者决定文字、语言与象征",
+    "visual_traits": [
+      "本地语言标题位",
+      "口述故事片段",
+      "可替换纹样"
+    ],
+    "use_cases": [
+      "festival",
+      "illustration"
+    ],
+    "industry_tags": [
+      "culture",
+      "tourism",
+      "entertainment"
+    ],
+    "goal_tags": [
+      "celebration",
+      "engagement"
+    ],
+    "audience_tags": [
+      "families",
+      "public"
+    ],
+    "emotion_tags": [
+      "festive",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "print"
+    ],
+    "color_palette": "当地采样色、黑、米白",
+    "composition": "以本地词句为视觉中心",
+    "lighting": "现场自然光",
+    "materials": "地方实际材料，避免假古董",
+    "camera_viewpoint": "正视海报",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“地方节庆声纹”的原创视觉语言：由当地参与者决定文字、语言与象征。画面体现本地语言标题位、口述故事片段、可替换纹样；以本地词句为视觉中心；现场自然光；材质为地方实际材料，避免假古董；视角为正视海报。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "伪造传统字体",
+      "未授权图案",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "未咨询本地社群"
+    ],
+    "source_urls": [
+      "https://business.adobe.com/au/resources/creative-trends-report.html",
+      "https://www.unesco.org/en/articles/making-indonesian-indigenous-language-scripts-available-online"
+    ]
+  },
+  {
+    "id": "quiet_craft",
+    "name_zh": "静奢工艺",
+    "name_en": "Quiet Craft",
+    "family": "luxury",
+    "philosophy": "用工艺细节和空间节奏表达价值",
+    "visual_traits": [
+      "精密接缝",
+      "有限色数",
+      "宽裕留白"
+    ],
+    "use_cases": [
+      "luxury",
+      "product_ad"
+    ],
+    "industry_tags": [
+      "luxury",
+      "fashion",
+      "real_estate"
+    ],
+    "goal_tags": [
+      "prestige",
+      "conversion"
+    ],
+    "audience_tags": [
+      "premium_buyers",
+      "consumers"
+    ],
+    "emotion_tags": [
+      "premium",
+      "calm"
+    ],
+    "platform_tags": [
+      "poster",
+      "print",
+      "web"
+    ],
+    "color_palette": "烟黑、羊皮白、柔金",
+    "composition": "单件物品偏下居中，留上方空白",
+    "lighting": "柔和侧光",
+    "materials": "真实皮革、金属、木材",
+    "camera_viewpoint": "三分之四近景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“静奢工艺”的原创视觉语言：用工艺细节和空间节奏表达价值。画面体现精密接缝、有限色数、宽裕留白；单件物品偏下居中，留上方空白；柔和侧光；材质为真实皮革、金属、木材；视角为三分之四近景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "假金箔噪声",
+      "夸张财富符号",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "商品工艺来源未经核实"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/type/product-photography.html",
+      "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html"
+    ]
+  },
+  {
+    "id": "mineral_monolith",
+    "name_zh": "矿物独石",
+    "name_en": "Mineral Monolith",
+    "family": "luxury",
+    "philosophy": "以材料重量感承托珍贵物件",
+    "visual_traits": [
+      "岩层截面",
+      "简洁台面",
+      "沉稳阴影"
+    ],
+    "use_cases": [
+      "luxury",
+      "product_ad"
+    ],
+    "industry_tags": [
+      "luxury",
+      "fashion",
+      "real_estate"
+    ],
+    "goal_tags": [
+      "prestige",
+      "conversion"
+    ],
+    "audience_tags": [
+      "premium_buyers",
+      "consumers"
+    ],
+    "emotion_tags": [
+      "premium",
+      "calm"
+    ],
+    "platform_tags": [
+      "poster",
+      "print",
+      "web"
+    ],
+    "color_palette": "石灰白、玄武黑、青铜",
+    "composition": "单一竖向主轴",
+    "lighting": "聚焦顶光",
+    "materials": "真实石材与金属",
+    "camera_viewpoint": "低角度近景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“矿物独石”的原创视觉语言：以材料重量感承托珍贵物件。画面体现岩层截面、简洁台面、沉稳阴影；单一竖向主轴；聚焦顶光；材质为真实石材与金属；视角为低角度近景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "虚假宝石切面",
+      "不稳固结构",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "珠宝材质需精确呈现"
+    ],
+    "source_urls": [
+      "https://www.blender.org/features/rendering/",
+      "https://www.ellenmacarthurfoundation.org/material-selection"
+    ]
+  },
+  {
+    "id": "private_gallery",
+    "name_zh": "私享展廊",
+    "name_en": "Private Gallery",
+    "family": "luxury",
+    "philosophy": "借鉴展陈节奏，把商品作为可细读的作品",
+    "visual_traits": [
+      "陈列间距",
+      "局部说明区",
+      "静态背景"
+    ],
+    "use_cases": [
+      "luxury",
+      "product_ad"
+    ],
+    "industry_tags": [
+      "luxury",
+      "fashion",
+      "real_estate"
+    ],
+    "goal_tags": [
+      "prestige",
+      "conversion"
+    ],
+    "audience_tags": [
+      "premium_buyers",
+      "consumers"
+    ],
+    "emotion_tags": [
+      "premium",
+      "calm"
+    ],
+    "platform_tags": [
+      "poster",
+      "print",
+      "web"
+    ],
+    "color_palette": "象牙白、乌木、雾金",
+    "composition": "少量物件按视线顺序排列",
+    "lighting": "博物馆式柔光",
+    "materials": "石膏、木材、玻璃",
+    "camera_viewpoint": "观众平视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“私享展廊”的原创视觉语言：借鉴展陈节奏，把商品作为可细读的作品。画面体现陈列间距、局部说明区、静态背景；少量物件按视线顺序排列；博物馆式柔光；材质为石膏、木材、玻璃；视角为观众平视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "仿造馆藏标签",
+      "虚构出处",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "来源和年代需证明的古董"
+    ],
+    "source_urls": [
+      "https://www.cooperhewitt.org/publications/how-posters-work/",
+      "https://www.adobe.com/creativecloud/photography/type/product-photography.html"
+    ]
+  },
+  {
+    "id": "material_provenance",
+    "name_zh": "材料来历",
+    "name_en": "Material Provenance",
+    "family": "luxury",
+    "philosophy": "把可核实的制作与来源信息纳入高级感",
+    "visual_traits": [
+      "材料样本",
+      "工序片段",
+      "证据文字区"
+    ],
+    "use_cases": [
+      "luxury",
+      "product_ad"
+    ],
+    "industry_tags": [
+      "luxury",
+      "fashion",
+      "real_estate"
+    ],
+    "goal_tags": [
+      "prestige",
+      "conversion"
+    ],
+    "audience_tags": [
+      "premium_buyers",
+      "consumers"
+    ],
+    "emotion_tags": [
+      "premium",
+      "calm"
+    ],
+    "platform_tags": [
+      "poster",
+      "print",
+      "web"
+    ],
+    "color_palette": "泥褐、米白、深绿",
+    "composition": "成品与材料并置",
+    "lighting": "工坊自然侧光",
+    "materials": "经核实的可循环或传统材料",
+    "camera_viewpoint": "桌面斜俯视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“材料来历”的原创视觉语言：把可核实的制作与来源信息纳入高级感。画面体现材料样本、工序片段、证据文字区；成品与材料并置；工坊自然侧光；材质为经核实的可循环或传统材料；视角为桌面斜俯视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "虚假手工痕迹",
+      "无证书承诺",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "无法查证原产地"
+    ],
+    "source_urls": [
+      "https://www.ellenmacarthurfoundation.org/material-selection",
+      "https://business.adobe.com/au/resources/creative-trends-report.html"
+    ]
+  },
+  {
+    "id": "windowlight_portrait",
+    "name_zh": "窗光人物",
+    "name_en": "Windowlight Portrait",
+    "family": "photography",
+    "philosophy": "让自然光和微表情呈现人物身份",
+    "visual_traits": [
+      "真实肤质",
+      "自然姿态",
+      "背景层次"
+    ],
+    "use_cases": [
+      "photography",
+      "recruitment"
+    ],
+    "industry_tags": [
+      "healthcare",
+      "tourism",
+      "sports"
+    ],
+    "goal_tags": [
+      "trust",
+      "awareness"
+    ],
+    "audience_tags": [
+      "public",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "warm",
+      "cinematic"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "web"
+    ],
+    "color_palette": "暖灰、柔蓝、肤色自然",
+    "composition": "人物靠窗偏侧，环境少量可见",
+    "lighting": "窗边单侧柔光",
+    "materials": "真实服饰与室内表面",
+    "camera_viewpoint": "人眼高度半身",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“窗光人物”的原创视觉语言：让自然光和微表情呈现人物身份。画面体现真实肤质、自然姿态、背景层次；人物靠窗偏侧，环境少量可见；窗边单侧柔光；材质为真实服饰与室内表面；视角为人眼高度半身。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "过度磨皮",
+      "假情绪",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "缺少肖像授权"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html",
+      "https://business.adobe.com/au/resources/creative-trends-report.html"
+    ]
+  },
+  {
+    "id": "documentary_motion",
+    "name_zh": "纪实动作",
+    "name_en": "Documentary Motion",
+    "family": "photography",
+    "philosophy": "用动作前后的瞬间讲述事件",
+    "visual_traits": [
+      "有意运动模糊",
+      "真实场地",
+      "行为线索"
+    ],
+    "use_cases": [
+      "photography",
+      "recruitment"
+    ],
+    "industry_tags": [
+      "healthcare",
+      "tourism",
+      "sports"
+    ],
+    "goal_tags": [
+      "trust",
+      "awareness"
+    ],
+    "audience_tags": [
+      "public",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "warm",
+      "cinematic"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "web"
+    ],
+    "color_palette": "场地自然色、炭黑",
+    "composition": "动作方向留足前方空间",
+    "lighting": "现场可用光",
+    "materials": "真实运动装备与场地",
+    "camera_viewpoint": "侧面中景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“纪实动作”的原创视觉语言：用动作前后的瞬间讲述事件。画面体现有意运动模糊、真实场地、行为线索；动作方向留足前方空间；现场可用光；材质为真实运动装备与场地；视角为侧面中景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "伪造新闻现场",
+      "危险动作美化",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "新闻用途需真实性核查"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html",
+      "https://business.adobe.com/au/resources/creative-trends-report.html"
+    ]
+  },
+  {
+    "id": "architectural_daylight",
+    "name_zh": "建筑日光",
+    "name_en": "Architectural Daylight",
+    "family": "photography",
+    "philosophy": "让空间使用方式和采光关系共同构图",
+    "visual_traits": [
+      "尺度参照",
+      "自然透视",
+      "光影层次"
+    ],
+    "use_cases": [
+      "photography",
+      "recruitment"
+    ],
+    "industry_tags": [
+      "healthcare",
+      "tourism",
+      "sports"
+    ],
+    "goal_tags": [
+      "trust",
+      "awareness"
+    ],
+    "audience_tags": [
+      "public",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "warm",
+      "cinematic"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "web"
+    ],
+    "color_palette": "石灰白、木色、天空蓝",
+    "composition": "通道线指向空间核心",
+    "lighting": "真实日光",
+    "materials": "建筑原有材料",
+    "camera_viewpoint": "平视广角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“建筑日光”的原创视觉语言：让空间使用方式和采光关系共同构图。画面体现尺度参照、自然透视、光影层次；通道线指向空间核心；真实日光；材质为建筑原有材料；视角为平视广角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "变形建筑轮廓",
+      "虚构开窗",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "房源广告要求真实结构"
+    ],
+    "source_urls": [
+      "https://www.adobe.com/creativecloud/photography/type/product-photography.html",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "micro_world",
+    "name_zh": "微观世界",
+    "name_en": "Micro World",
+    "family": "photography",
+    "philosophy": "发现肉眼常忽略的材料与自然细节",
+    "visual_traits": [
+      "清楚焦点",
+      "细微纹理",
+      "尺度提示"
+    ],
+    "use_cases": [
+      "photography",
+      "recruitment"
+    ],
+    "industry_tags": [
+      "healthcare",
+      "tourism",
+      "sports"
+    ],
+    "goal_tags": [
+      "trust",
+      "awareness"
+    ],
+    "audience_tags": [
+      "public",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "warm",
+      "cinematic"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "web"
+    ],
+    "color_palette": "自然采样色、深背景",
+    "composition": "单点微观主体与大留白",
+    "lighting": "可控柔侧光",
+    "materials": "真实表面、水滴或植物",
+    "camera_viewpoint": "微距近拍",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“微观世界”的原创视觉语言：发现肉眼常忽略的材料与自然细节。画面体现清楚焦点、细微纹理、尺度提示；单点微观主体与大留白；可控柔侧光；材质为真实表面、水滴或植物；视角为微距近拍。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "不可能的微观结构",
+      "虚构科学事实",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "科学传播需标明放大倍数"
+    ],
+    "source_urls": [
+      "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/in-focus-experimenting-with-macro-photography-at-home",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "warm_flat_story",
+    "name_zh": "温暖平面叙事",
+    "name_en": "Warm Flat Story",
+    "family": "illustration",
+    "philosophy": "用清晰形状与人物关系降低理解门槛",
+    "visual_traits": [
+      "简化轮廓",
+      "表情克制",
+      "叙事道具"
+    ],
+    "use_cases": [
+      "illustration",
+      "education"
+    ],
+    "industry_tags": [
+      "children",
+      "culture",
+      "gaming"
+    ],
+    "goal_tags": [
+      "engagement",
+      "education"
+    ],
+    "audience_tags": [
+      "children",
+      "creators",
+      "families"
+    ],
+    "emotion_tags": [
+      "playful",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "print"
+    ],
+    "color_palette": "杏黄、湖蓝、珊瑚",
+    "composition": "主角和道具形成一眼可读的关系",
+    "lighting": "平面均匀色",
+    "materials": "矢量色块与纸纹",
+    "camera_viewpoint": "正视平面",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“温暖平面叙事”的原创视觉语言：用清晰形状与人物关系降低理解门槛。画面体现简化轮廓、表情克制、叙事道具；主角和道具形成一眼可读的关系；平面均匀色；材质为矢量色块与纸纹；视角为正视平面。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "刻板角色设定",
+      "过量装饰",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "需要精确写实示范"
+    ],
+    "source_urls": [
+      "https://design.google/library/expressive-material-design-google-research",
+      "https://www.cooperhewitt.org/publications/how-posters-work/"
+    ]
+  },
+  {
+    "id": "paper_cut_ecology",
+    "name_zh": "纸切生态",
+    "name_en": "Paper Cut Ecology",
+    "family": "illustration",
+    "philosophy": "用层叠纸形表达自然系统之间的联系",
+    "visual_traits": [
+      "层叠植被",
+      "可见纸边",
+      "物种区分"
+    ],
+    "use_cases": [
+      "illustration",
+      "education"
+    ],
+    "industry_tags": [
+      "children",
+      "culture",
+      "gaming"
+    ],
+    "goal_tags": [
+      "engagement",
+      "education"
+    ],
+    "audience_tags": [
+      "children",
+      "creators",
+      "families"
+    ],
+    "emotion_tags": [
+      "playful",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "print"
+    ],
+    "color_palette": "苔绿、土黄、天空蓝",
+    "composition": "前中后景分别放置生态角色",
+    "lighting": "柔侧光产生真实纸影",
+    "materials": "再生纸与手工裁切",
+    "camera_viewpoint": "斜俯视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“纸切生态”的原创视觉语言：用层叠纸形表达自然系统之间的联系。画面体现层叠植被、可见纸边、物种区分；前中后景分别放置生态角色；柔侧光产生真实纸影；材质为再生纸与手工裁切；视角为斜俯视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "错误物种混搭",
+      "一次性塑料效果",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "科学教材未核对物种"
+    ],
+    "source_urls": [
+      "https://www.ellenmacarthurfoundation.org/material-selection",
+      "https://www.cooperhewitt.org/publications/how-posters-work/"
+    ]
+  },
+  {
+    "id": "surreal_kindness",
+    "name_zh": "善意超现实",
+    "name_en": "Surreal Kindness",
+    "family": "illustration",
+    "philosophy": "以温和的不可能情境吸引注意并保留清楚主题",
+    "visual_traits": [
+      "意外比例",
+      "日常物件",
+      "明确焦点"
+    ],
+    "use_cases": [
+      "illustration",
+      "education"
+    ],
+    "industry_tags": [
+      "children",
+      "culture",
+      "gaming"
+    ],
+    "goal_tags": [
+      "engagement",
+      "education"
+    ],
+    "audience_tags": [
+      "children",
+      "creators",
+      "families"
+    ],
+    "emotion_tags": [
+      "playful",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "print"
+    ],
+    "color_palette": "薰衣草紫、桃粉、奶白",
+    "composition": "超现实主体占中部，背景简洁",
+    "lighting": "柔和梦境光",
+    "materials": "绒面、纸张与轻量云雾",
+    "camera_viewpoint": "平视广角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“善意超现实”的原创视觉语言：以温和的不可能情境吸引注意并保留清楚主题。画面体现意外比例、日常物件、明确焦点；超现实主体占中部，背景简洁；柔和梦境光；材质为绒面、纸张与轻量云雾；视角为平视广角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "惊悚扭曲",
+      "无法识别产品",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "严肃医疗和灾害沟通"
+    ],
+    "source_urls": [
+      "https://business.adobe.com/au/resources/creative-trends-report.html",
+      "https://design.google/library/expressive-material-design-google-research"
+    ]
+  },
+  {
+    "id": "multiscript_story",
+    "name_zh": "多文字共叙",
+    "name_en": "Multiscript Story",
+    "family": "illustration",
+    "philosophy": "为不同文字体系提供同等清晰的叙事空间",
+    "visual_traits": [
+      "独立文字区",
+      "可调行高",
+      "原生字形"
+    ],
+    "use_cases": [
+      "illustration",
+      "education"
+    ],
+    "industry_tags": [
+      "children",
+      "culture",
+      "gaming"
+    ],
+    "goal_tags": [
+      "engagement",
+      "education"
+    ],
+    "audience_tags": [
+      "children",
+      "creators",
+      "families"
+    ],
+    "emotion_tags": [
+      "playful",
+      "warm"
+    ],
+    "platform_tags": [
+      "poster",
+      "social",
+      "print"
+    ],
+    "color_palette": "深靛、暖白、当地采样色",
+    "composition": "图像与多语言标题分区并列",
+    "lighting": "均匀无眩光",
+    "materials": "平面插画与可编辑文字层",
+    "camera_viewpoint": "正视图",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“多文字共叙”的原创视觉语言：为不同文字体系提供同等清晰的叙事空间。画面体现独立文字区、可调行高、原生字形；图像与多语言标题分区并列；均匀无眩光；材质为平面插画与可编辑文字层；视角为正视图。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "伪造文字",
+      "把文字当纹理",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "缺少母语审校"
+    ],
+    "source_urls": [
+      "https://www.unesco.org/en/articles/making-indonesian-indigenous-language-scripts-available-online",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "soft_geometry",
+    "name_zh": "柔性几何",
+    "name_en": "Soft Geometry",
+    "family": "three_d",
+    "philosophy": "用友好的体块把复杂概念具象化",
+    "visual_traits": [
+      "圆润体积",
+      "少量部件",
+      "清楚投影"
+    ],
+    "use_cases": [
+      "three_d",
+      "technology"
+    ],
+    "industry_tags": [
+      "technology",
+      "automotive",
+      "gaming"
+    ],
+    "goal_tags": [
+      "awareness",
+      "conversion"
+    ],
+    "audience_tags": [
+      "consumers",
+      "creators"
+    ],
+    "emotion_tags": [
+      "innovative",
+      "cinematic"
+    ],
+    "platform_tags": [
+      "poster",
+      "web",
+      "social"
+    ],
+    "color_palette": "浅青、奶油白、珊瑚橙",
+    "composition": "一组体块围绕核心物",
+    "lighting": "大面积柔光箱",
+    "materials": "哑光聚合物与陶瓷",
+    "camera_viewpoint": "等距三分之四",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“柔性几何”的原创视觉语言：用友好的体块把复杂概念具象化。画面体现圆润体积、少量部件、清楚投影；一组体块围绕核心物；大面积柔光箱；材质为哑光聚合物与陶瓷；视角为等距三分之四。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "无意义漂浮图标",
+      "过度高光",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "需要精确结构展示"
+    ],
+    "source_urls": [
+      "https://www.blender.org/features/rendering/",
+      "https://design.google/library/expressive-material-design-google-research"
+    ]
+  },
+  {
+    "id": "transparent_mechanism",
+    "name_zh": "透明机制",
+    "name_en": "Transparent Mechanism",
+    "family": "three_d",
+    "philosophy": "显示组件关系，但不把概念图伪装成工程事实",
+    "visual_traits": [
+      "分层透明壳",
+      "内部路径",
+      "注释留位"
+    ],
+    "use_cases": [
+      "three_d",
+      "technology"
+    ],
+    "industry_tags": [
+      "technology",
+      "automotive",
+      "gaming"
+    ],
+    "goal_tags": [
+      "awareness",
+      "conversion"
+    ],
+    "audience_tags": [
+      "consumers",
+      "creators"
+    ],
+    "emotion_tags": [
+      "innovative",
+      "cinematic"
+    ],
+    "platform_tags": [
+      "poster",
+      "web",
+      "social"
+    ],
+    "color_palette": "冰蓝、钢灰、白",
+    "composition": "爆炸视图沿一条清楚轴线",
+    "lighting": "顶部与侧面双柔光",
+    "materials": "玻璃、金属及真实组件材质",
+    "camera_viewpoint": "等距轴测",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“透明机制”的原创视觉语言：显示组件关系，但不把概念图伪装成工程事实。画面体现分层透明壳、内部路径、注释留位；爆炸视图沿一条清楚轴线；顶部与侧面双柔光；材质为玻璃、金属及真实组件材质；视角为等距轴测。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "凭空增添零件",
+      "假物理结构",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "需用于工程验收"
+    ],
+    "source_urls": [
+      "https://www.blender.org/features/rendering/",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "kinetic_clay",
+    "name_zh": "动态黏土",
+    "name_en": "Kinetic Clay",
+    "family": "three_d",
+    "philosophy": "用可触摸的形变表现活力与变化",
+    "visual_traits": [
+      "柔软挤压",
+      "序列节拍",
+      "手作边缘"
+    ],
+    "use_cases": [
+      "three_d",
+      "technology"
+    ],
+    "industry_tags": [
+      "technology",
+      "automotive",
+      "gaming"
+    ],
+    "goal_tags": [
+      "awareness",
+      "conversion"
+    ],
+    "audience_tags": [
+      "consumers",
+      "creators"
+    ],
+    "emotion_tags": [
+      "innovative",
+      "cinematic"
+    ],
+    "platform_tags": [
+      "poster",
+      "web",
+      "social"
+    ],
+    "color_palette": "电光蓝、柿橙、淡紫",
+    "composition": "连续体块由小到大跃动",
+    "lighting": "明亮棚拍光",
+    "materials": "黏土与柔性橡胶",
+    "camera_viewpoint": "低角度近景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“动态黏土”的原创视觉语言：用可触摸的形变表现活力与变化。画面体现柔软挤压、序列节拍、手作边缘；连续体块由小到大跃动；明亮棚拍光；材质为黏土与柔性橡胶；视角为低角度近景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "塑料光污染",
+      "过度复杂纹理",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "严肃财报或安全警告"
+    ],
+    "source_urls": [
+      "https://www.blender.org/features/rendering/",
+      "https://business.adobe.com/au/resources/creative-trends-report.html"
+    ]
+  },
+  {
+    "id": "procedural_orbit",
+    "name_zh": "程序轨道",
+    "name_en": "Procedural Orbit",
+    "family": "three_d",
+    "philosophy": "用受规则约束的重复单元建立可扩展视觉",
+    "visual_traits": [
+      "参数化环形",
+      "大小递进",
+      "留白轨道"
+    ],
+    "use_cases": [
+      "three_d",
+      "technology"
+    ],
+    "industry_tags": [
+      "technology",
+      "automotive",
+      "gaming"
+    ],
+    "goal_tags": [
+      "awareness",
+      "conversion"
+    ],
+    "audience_tags": [
+      "consumers",
+      "creators"
+    ],
+    "emotion_tags": [
+      "innovative",
+      "cinematic"
+    ],
+    "platform_tags": [
+      "poster",
+      "web",
+      "social"
+    ],
+    "color_palette": "深紫、青、冷白",
+    "composition": "环带围绕主体而不遮挡信息",
+    "lighting": "冷暖双边缘光",
+    "materials": "细金属与半透明粒子",
+    "camera_viewpoint": "轴测远景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“程序轨道”的原创视觉语言：用受规则约束的重复单元建立可扩展视觉。画面体现参数化环形、大小递进、留白轨道；环带围绕主体而不遮挡信息；冷暖双边缘光；材质为细金属与半透明粒子；视角为轴测远景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "随机噪点冒充数据",
+      "眩光遮字",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "必须说明真实轨迹的科学图"
+    ],
+    "source_urls": [
+      "https://www.blender.org/features/rendering/",
+      "https://design.google/library/expressive-material-design-google-research"
+    ]
+  },
+  {
+    "id": "ink_breathing_space",
+    "name_zh": "水墨留息",
+    "name_en": "Ink Breathing Space",
+    "family": "oriental",
+    "philosophy": "用笔墨浓淡和空白的关系营造气韵",
+    "visual_traits": [
+      "干湿笔触",
+      "远近墨层",
+      "大面积留白"
+    ],
+    "use_cases": [
+      "oriental",
+      "festival"
+    ],
+    "industry_tags": [
+      "culture",
+      "tourism",
+      "luxury"
+    ],
+    "goal_tags": [
+      "awareness",
+      "prestige"
+    ],
+    "audience_tags": [
+      "public",
+      "premium_buyers"
+    ],
+    "emotion_tags": [
+      "calm",
+      "premium"
+    ],
+    "platform_tags": [
+      "poster",
+      "print",
+      "web"
+    ],
+    "color_palette": "墨黑、纸白、淡赭",
+    "composition": "主体偏下，远景由淡墨延伸",
+    "lighting": "柔和环境光",
+    "materials": "宣纸与水墨",
+    "camera_viewpoint": "长卷式平视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“水墨留息”的原创视觉语言：用笔墨浓淡和空白的关系营造气韵。画面体现干湿笔触、远近墨层、大面积留白；主体偏下，远景由淡墨延伸；柔和环境光；材质为宣纸与水墨；视角为长卷式平视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "拼贴不相干书法",
+      "假题款",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "未经授权的书法摹写"
+    ],
+    "source_urls": [
+      "https://www.metmuseum.org/de/essays/chinese-painting",
+      "https://www.metmuseum.org/exhibitions/listings/2017/streams-and-mountains"
+    ]
+  },
+  {
+    "id": "woodblock_seasons",
+    "name_zh": "版画四时",
+    "name_en": "Woodblock Seasons",
+    "family": "oriental",
+    "philosophy": "借鉴套色木刻的层次与季节观察",
+    "visual_traits": [
+      "清楚套色边界",
+      "平面远景",
+      "自然细节"
+    ],
+    "use_cases": [
+      "oriental",
+      "festival"
+    ],
+    "industry_tags": [
+      "culture",
+      "tourism",
+      "luxury"
+    ],
+    "goal_tags": [
+      "awareness",
+      "prestige"
+    ],
+    "audience_tags": [
+      "public",
+      "premium_buyers"
+    ],
+    "emotion_tags": [
+      "calm",
+      "premium"
+    ],
+    "platform_tags": [
+      "poster",
+      "print",
+      "web"
+    ],
+    "color_palette": "靛蓝、茶绿、朱红",
+    "composition": "前景物与远景地平线相扣",
+    "lighting": "平面印刷明暗",
+    "materials": "木版印痕与和纸质感",
+    "camera_viewpoint": "略高视点",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“版画四时”的原创视觉语言：借鉴套色木刻的层次与季节观察。画面体现清楚套色边界、平面远景、自然细节；前景物与远景地平线相扣；平面印刷明暗；材质为木版印痕与和纸质感；视角为略高视点。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "复制名作构图",
+      "假落款",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "文化背景未核实"
+    ],
+    "source_urls": [
+      "https://www.metmuseum.org/ko/essays/woodblock-prints-in-the-ukiyo-e-style",
+      "https://www.unesco.org/en/articles/making-indonesian-indigenous-language-scripts-available-online"
+    ]
+  },
+  {
+    "id": "contemporary_scroll",
+    "name_zh": "当代长卷",
+    "name_en": "Contemporary Scroll",
+    "family": "oriental",
+    "philosophy": "用逐段展开的节奏连接古典空间与现代主题",
+    "visual_traits": [
+      "连续场景",
+      "段落留白",
+      "细节递进"
+    ],
+    "use_cases": [
+      "oriental",
+      "festival"
+    ],
+    "industry_tags": [
+      "culture",
+      "tourism",
+      "luxury"
+    ],
+    "goal_tags": [
+      "awareness",
+      "prestige"
+    ],
+    "audience_tags": [
+      "public",
+      "premium_buyers"
+    ],
+    "emotion_tags": [
+      "calm",
+      "premium"
+    ],
+    "platform_tags": [
+      "poster",
+      "print",
+      "web"
+    ],
+    "color_palette": "灰青、淡墨、柔金",
+    "composition": "横向游览路径串联多个场景",
+    "lighting": "均匀柔光",
+    "materials": "纸本、水墨和少量数字线",
+    "camera_viewpoint": "移动式平视",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“当代长卷”的原创视觉语言：用逐段展开的节奏连接古典空间与现代主题。画面体现连续场景、段落留白、细节递进；横向游览路径串联多个场景；均匀柔光；材质为纸本、水墨和少量数字线；视角为移动式平视。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "复刻古画局部",
+      "虚构古文",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "历史解说需专家审校"
+    ],
+    "source_urls": [
+      "https://www.metmuseum.org/de/essays/chinese-painting",
+      "https://www.metmuseum.org/exhibitions/listings/2017/streams-and-mountains"
+    ]
+  },
+  {
+    "id": "craft_motif_dialogue",
+    "name_zh": "工艺纹样对话",
+    "name_en": "Craft Motif Dialogue",
+    "family": "oriental",
+    "philosophy": "从经授权的当地工艺中提炼结构关系",
+    "visual_traits": [
+      "可追溯纹样来源",
+      "材料接缝",
+      "现代留白"
+    ],
+    "use_cases": [
+      "oriental",
+      "festival"
+    ],
+    "industry_tags": [
+      "culture",
+      "tourism",
+      "luxury"
+    ],
+    "goal_tags": [
+      "awareness",
+      "prestige"
+    ],
+    "audience_tags": [
+      "public",
+      "premium_buyers"
+    ],
+    "emotion_tags": [
+      "calm",
+      "premium"
+    ],
+    "platform_tags": [
+      "poster",
+      "print",
+      "web"
+    ],
+    "color_palette": "原材料色、深蓝、米白",
+    "composition": "小面积纹样与大面积素面交替",
+    "lighting": "自然工坊光",
+    "materials": "真实纤维、竹木或陶",
+    "camera_viewpoint": "细节近景",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“工艺纹样对话”的原创视觉语言：从经授权的当地工艺中提炼结构关系。画面体现可追溯纹样来源、材料接缝、现代留白；小面积纹样与大面积素面交替；自然工坊光；材质为真实纤维、竹木或陶；视角为细节近景。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "未经许可复制神圣图案",
+      "混合不同族群符号",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "未取得工艺社群同意"
+    ],
+    "source_urls": [
+      "https://www.unesco.org/en/articles/making-indonesian-indigenous-language-scripts-available-online",
+      "https://www.ellenmacarthurfoundation.org/material-selection"
+    ]
+  },
+  {
+    "id": "swiss_grid_reframed",
+    "name_zh": "理性网格新编",
+    "name_en": "Rational Grid Reframed",
+    "family": "international_graphic",
+    "philosophy": "用稳定网格提升跨语言信息检索效率",
+    "visual_traits": [
+      "清晰基线",
+      "可变栏宽",
+      "强标题"
+    ],
+    "use_cases": [
+      "international_graphic",
+      "corporate"
+    ],
+    "industry_tags": [
+      "education",
+      "culture",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "awareness",
+      "education"
+    ],
+    "audience_tags": [
+      "public",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "confident",
+      "innovative"
+    ],
+    "platform_tags": [
+      "poster",
+      "slide",
+      "print"
+    ],
+    "color_palette": "黑、白、鲜红点缀",
+    "composition": "非对称网格保持严格对齐",
+    "lighting": "均匀平面光",
+    "materials": "纸张与矢量色面",
+    "camera_viewpoint": "正视图",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“理性网格新编”的原创视觉语言：用稳定网格提升跨语言信息检索效率。画面体现清晰基线、可变栏宽、强标题；非对称网格保持严格对齐；均匀平面光；材质为纸张与矢量色面；视角为正视图。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "密集微字",
+      "机械套用旧海报",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "多语文本未试排"
+    ],
+    "source_urls": [
+      "https://www.cooperhewitt.org/2013/11/26/gridnik/",
+      "https://www.w3.org/TR/wcag/"
+    ]
+  },
+  {
+    "id": "expressive_type_field",
+    "name_zh": "表现文字场",
+    "name_en": "Expressive Type Field",
+    "family": "international_graphic",
+    "philosophy": "让文字大小与形状引导注意，但保留可读顺序",
+    "visual_traits": [
+      "可变字重",
+      "大标题",
+      "稳固次级文字"
+    ],
+    "use_cases": [
+      "international_graphic",
+      "corporate"
+    ],
+    "industry_tags": [
+      "education",
+      "culture",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "awareness",
+      "education"
+    ],
+    "audience_tags": [
+      "public",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "confident",
+      "innovative"
+    ],
+    "platform_tags": [
+      "poster",
+      "slide",
+      "print"
+    ],
+    "color_palette": "钴蓝、米白、酸橙",
+    "composition": "标题占上半部，正文保持独立",
+    "lighting": "平面均匀光",
+    "materials": "可编辑字体与纯色块",
+    "camera_viewpoint": "正视图",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“表现文字场”的原创视觉语言：让文字大小与形状引导注意，但保留可读顺序。画面体现可变字重、大标题、稳固次级文字；标题占上半部，正文保持独立；平面均匀光；材质为可编辑字体与纯色块；视角为正视图。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "变形不可读文字",
+      "仿现成标志",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "长篇法规文本"
+    ],
+    "source_urls": [
+      "https://design.google/library/expressive-material-design-google-research",
+      "https://www.cooperhewitt.org/publications/how-posters-work/"
+    ]
+  },
+  {
+    "id": "community_pattern_atlas",
+    "name_zh": "社区纹样图谱",
+    "name_en": "Community Pattern Atlas",
+    "family": "international_graphic",
+    "philosophy": "让参与者共同选择与标注可公开的视觉元素",
+    "visual_traits": [
+      "模块图谱",
+      "来源注记",
+      "可替换样本"
+    ],
+    "use_cases": [
+      "international_graphic",
+      "corporate"
+    ],
+    "industry_tags": [
+      "education",
+      "culture",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "awareness",
+      "education"
+    ],
+    "audience_tags": [
+      "public",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "confident",
+      "innovative"
+    ],
+    "platform_tags": [
+      "poster",
+      "slide",
+      "print"
+    ],
+    "color_palette": "社区采样色、黑、白",
+    "composition": "样本卡围绕共享主题排列",
+    "lighting": "均匀记录光",
+    "materials": "真实样本扫描与可编辑图形",
+    "camera_viewpoint": "俯拍与正视结合",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“社区纹样图谱”的原创视觉语言：让参与者共同选择与标注可公开的视觉元素。画面体现模块图谱、来源注记、可替换样本；样本卡围绕共享主题排列；均匀记录光；材质为真实样本扫描与可编辑图形；视角为俯拍与正视结合。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "匿名挪用",
+      "假代表性",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "社区没有同意公开素材"
+    ],
+    "source_urls": [
+      "https://business.adobe.com/au/resources/creative-trends-report.html",
+      "https://www.unesco.org/en/articles/making-indonesian-indigenous-language-scripts-available-online"
+    ]
+  },
+  {
+    "id": "inclusive_wayfinding",
+    "name_zh": "包容导视",
+    "name_en": "Inclusive Wayfinding",
+    "family": "international_graphic",
+    "philosophy": "让不同阅读与视觉能力的人快速找到行动路径",
+    "visual_traits": [
+      "高对比箭头",
+      "文字图形双提示",
+      "宽字距"
+    ],
+    "use_cases": [
+      "international_graphic",
+      "corporate"
+    ],
+    "industry_tags": [
+      "education",
+      "culture",
+      "professional_services"
+    ],
+    "goal_tags": [
+      "awareness",
+      "education"
+    ],
+    "audience_tags": [
+      "public",
+      "professionals"
+    ],
+    "emotion_tags": [
+      "confident",
+      "innovative"
+    ],
+    "platform_tags": [
+      "poster",
+      "slide",
+      "print"
+    ],
+    "color_palette": "深蓝、白、亮黄",
+    "composition": "单一方向信息主导，次级信息退后",
+    "lighting": "无眩光均匀光",
+    "materials": "耐读平面标牌",
+    "camera_viewpoint": "正视行人视角",
+    "prompt_template": "以{subject}为主体，置于{environment}。采用“包容导视”的原创视觉语言：让不同阅读与视觉能力的人快速找到行动路径。画面体现高对比箭头、文字图形双提示、宽字距；单一方向信息主导，次级信息退后；无眩光均匀光；材质为耐读平面标牌；视角为正视行人视角。预留清晰文字区域，保持主体可辨与事实准确。",
+    "negative_prompt": [
+      "仅颜色区分",
+      "装饰性假图标",
+      "现成品牌标识",
+      "他人专有版式"
+    ],
+    "contraindications": [
+      "未经现场测试的真实疏散导视"
+    ],
+    "source_urls": [
+      "https://www.w3.org/TR/wcag/",
+      "https://www.cooperhewitt.org/publications/how-posters-work/"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "direction_id": "annotated_product_story",
+  "attempt": 2,
+  "issue_scope": "global",
+  "hard_checks": [
+    {
+      "id": "brief_alignment",
+      "status": "uncertain",
+      "severity": "critical",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    },
+    {
+      "id": "human_anatomy",
+      "status": "not_applicable",
+      "severity": "critical",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    },
+    {
+      "id": "spatial",
+      "status": "not_applicable",
+      "severity": "critical",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    },
+    {
+      "id": "lighting",
+      "status": "not_applicable",
+      "severity": "critical",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    },
+    {
+      "id": "object_integrity",
+      "status": "not_applicable",
+      "severity": "critical",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    },
+    {
+      "id": "text",
+      "status": "not_applicable",
+      "severity": "critical",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    },
+    {
+      "id": "count",
+      "status": "not_applicable",
+      "severity": "critical",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    },
+    {
+      "id": "scene_logic",
+      "status": "not_applicable",
+      "severity": "critical",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    },
+    {
+      "id": "domain",
+      "status": "not_applicable",
+      "severity": "critical",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    }
+  ],
+  "soft_scores": {
+    "communication": 1,
+    "hierarchy_composition": 1,
+    "style_brand_fit": 1,
+    "lighting_material": 1,
+    "legibility_export": 1
+  },
+  "synthetic": true
+}

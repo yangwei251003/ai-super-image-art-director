@@ -1,0 +1,27 @@
+{
+  "direction_id": "annotated_product_story",
+  "attempt": 2,
+  "passed": false,
+  "action": "failed_preview",
+  "score": 5,
+  "max_corrections": 2,
+  "corrections_remaining": 0,
+  "blocking_check_ids": [
+    "brief_alignment"
+  ],
+  "unresolved_issues": [
+    {
+      "id": "brief_alignment",
+      "status": "uncertain",
+      "evidence": "OFFLINE SYNTHETIC PROTOCOL FIXTURE: no generated image exists; no visual check has been performed.",
+      "repair": "Requires a future real image and grounded inspection."
+    }
+  ],
+  "weak_axes": [
+    "communication",
+    "hierarchy_composition",
+    "style_brand_fit",
+    "lighting_material",
+    "legibility_export"
+  ]
+}

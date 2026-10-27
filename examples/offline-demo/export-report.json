@@ -1,0 +1,19 @@
+{
+  "output": "synthetic-export.png",
+  "source_size": [
+    320,
+    180
+  ],
+  "target_size": [
+    480,
+    640
+  ],
+  "mode": "contain",
+  "scale": 1.5,
+  "padding": {
+    "left": 0,
+    "top": 185,
+    "right": 0,
+    "bottom": 185
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "evidence-encoded-imagery",
+    "name_zh": "证据编码图像",
+    "source_urls": ["https://science.nasa.gov/gallery/nisar-image-releases/", "https://nisar.jpl.nasa.gov/mission/get-to-know-sar/interferometry/"],
+    "source_dates": [null, null],
+    "observed_pattern": "NASA 的 NISAR 图像发布页呈现雷达图像；JPL 解释干涉图的色带对应两次雷达观测间的信号相位差。这里的颜色承担数据含义，需要图例、单位和解释。",
+    "transfer_rule": "当视觉来自真实数据时，保留数据来源、编码含义、时间与不确定性；先保证读者能正确解读，再优化画面吸引力。",
+    "limits": "这是一类可观察的实践，不等于所有科学图像都遵循相同编码，也不证明其已成为普遍设计趋势；不可把伪彩色当作未经说明的真实色彩。"
+  },
+  {
+    "id": "community-authored-identity",
+    "name_zh": "社区共创识别",
+    "source_urls": ["https://landor.com/en/our-work/west-loop/"],
+    "source_dates": [null],
+    "observed_pattern": "Landor 的 West Loop 案例把地方历史和人群放进品牌概念，并提供可互动的 loop 与个人表达社区联系的数字体验。",
+    "transfer_rule": "为真实参与者定义可改变的内容与不可改变的识别边界；展示参与方式及归属，而非仅用代表社区的素材做装饰。",
+    "limits": "案例页描述了设计机制，未单独证明社区参与的规模或长期成效；不应泛称所有地方品牌都需要共创。"
+  },
+  {
+    "id": "circular-material-provenance",
+    "name_zh": "材料来源与循环路径可视化",
+    "source_urls": ["https://www.ikea.com/global/en/our-business/sustainability/designing-for-a-circular-future/", "https://www.ikea.com/global/en/our-business/sustainability/circularity-progress/"],
+    "source_dates": [null, null],
+    "observed_pattern": "IKEA 的循环设计资料把材料混合、预期寿命、维修、再使用与回收路径列为产品设计条件，并展示减少塑料等具体变化。",
+    "transfer_rule": "把材料来源、当前结构和下一次使用路径画成可核查的阶段；对每个环保表述附可追溯依据。",
+    "limits": "设计意图不等于已实现的循环结果；没有产品级数据时，不得用绿色视觉暗示环保成效。"
+  },
+  {
+    "id": "multiscript-parity",
+    "name_zh": "多文字系统的平等排版",
+    "source_urls": ["https://www.pentagram.com/work/guggenheim-3", "https://design.google/library/open-source-custom-fonts-google"],
+    "source_dates": [null, null],
+    "observed_pattern": "Pentagram 为 Guggenheim 识别设计了与西文协作的阿拉伯文字体版本；Google Design 介绍 Noto 以跨书写系统的高度与笔画协调、减少缺字方框为目标。",
+    "transfer_rule": "在概念阶段同时排版所有目标语言，检查字重、节奏、换行、阅读方向和本地语义，不能在最终画面中临时替换字体。",
+    "limits": "字形协调不等于语言和文化表达完全等价；每种文字仍需母语使用者和字体授权核验。"
+  },
+  {
+    "id": "accessibility-led-visual-hierarchy",
+    "name_zh": "无障碍驱动的视觉层级",
+    "source_urls": ["https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum", "https://design.google/library/expressive-material-design-google-research"],
+    "source_dates": [null, null],
+    "observed_pattern": "W3C 对普通文字与大文字给出不同的最低对比度要求；Google Material 3 Expressive 的研究把尺寸、颜色和容器关系用于强调关键操作，并纳入无障碍检查。",
+    "transfer_rule": "先按使用场景检验文字与背景对比度、阅读尺寸和关键信息顺序，再选择表现强度；将无障碍作为构图输入。",
+    "limits": "WCAG 对文字和图像中文字的具体适用范围需逐项判断；符合对比度阈值不等于整幅作品或交互整体可访问。"
+  }
+]

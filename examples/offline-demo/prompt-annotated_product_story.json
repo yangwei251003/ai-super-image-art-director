@@ -1,0 +1,22 @@
+{
+  "style_id": "annotated_product_story",
+  "style_name": "产品注释叙事",
+  "positive_prompt": "以a fictional geometric device made only of circles and rectangles; not a real product为主体，置于a clearly labeled synthetic demonstration canvas。制作原创产品注释叙事图：写实主体占画面主要面积，周围用少量深色线条和单一强调色指出用户已提供或可核实的部件与特征。注释线不交叉，文字区域留白，光线与材质真实；未知规格、成分、尺寸和可持续性数据一律不出现。",
+  "negative_prompt": [
+    "编造尺寸或技术指标",
+    "无依据的内部截面",
+    "密集交叉的标注线",
+    "虚构认证",
+    "现成品牌标识",
+    "cyberpunk"
+  ],
+  "composition_prompt": "产品占主要面积；注释沿外缘分布并以不交叉引导线对应部件",
+  "lighting_prompt": "均匀棚拍柔光和可信接触阴影",
+  "material_prompt": "产品真实表面、细墨线、克制的纸面颗粒",
+  "camera_or_viewpoint_prompt": "三分之四产品视角；仅对已知内部结构使用剖面视角",
+  "exact_text": [
+    "SYNTHETIC DEMO",
+    "NO MODEL OUTPUT"
+  ],
+  "compiled_prompt": "作品用途：poster；slide。\n主体：a fictional geometric device made only of circles and rectangles; not a real product。\n环境：a clearly labeled synthetic demonstration canvas。\n视觉方向：产品注释叙事。核心理念：把真实产品作为主角，用少量线性注释解释可核实的构造与价值。\n正向画面：以a fictional geometric device made only of circles and rectangles; not a real product为主体，置于a clearly labeled synthetic demonstration canvas。制作原创产品注释叙事图：写实主体占画面主要面积，周围用少量深色线条和单一强调色指出用户已提供或可核实的部件与特征。注释线不交叉，文字区域留白，光线与材质真实；未知规格、成分、尺寸和可持续性数据一律不出现。。\n构图：产品占主要面积；注释沿外缘分布并以不交叉引导线对应部件。\n镜头或视角：三分之四产品视角；仅对已知内部结构使用剖面视角。\n光影：均匀棚拍柔光和可信接触阴影。\n材质和表面细节：产品真实表面、细墨线、克制的纸面颗粒。\n真实细节：主体结构、接触、透视、光源、阴影和数量须与用户要求一致；若明确为幻想场景，则保持设定内部一致。\n必须满足的可核查事实：geometric illustration only；identify the result as a synthetic demonstration。\n品牌约束：No real brand, person, account, contact detail or product claim。不自行创造未提供的徽标、产品参数或宣传事实。\n图中必须逐字、清晰地呈现且仅呈现这些文字：「SYNTHETIC DEMO」；「NO MODEL OUTPUT」。除此之外，墙面、屏幕、纸张、书脊、衣服及背景均不得出现任何可读文字、伪文字或品牌标识。不得增删或错写指定文案。\n目标画幅：480 × 640 像素的比例；保留安全边距，主体和文字不得贴边。\n避免：编造尺寸或技术指标；无依据的内部截面；密集交叉的标注线；虚构认证；现成品牌标识；cyberpunk。"
+}

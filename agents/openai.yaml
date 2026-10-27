@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Super Image Art Director"
+  short_description: "Design, generate, review, and refine multi-style campaign images"
+  default_prompt: "Use $ai-super-image-art-director to design and generate three distinct visual directions for my campaign."
+policy:
+  allow_implicit_invocation: true

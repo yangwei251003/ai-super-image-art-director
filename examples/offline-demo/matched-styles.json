@@ -1,0 +1,548 @@
+{
+  "selected": [
+    {
+      "id": "annotated_product_story",
+      "name_zh": "产品注释叙事",
+      "name_en": "Annotated Product Story",
+      "family": "product_ad",
+      "score": 17,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 3,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "education"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "目标用户": [
+          "students"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative",
+          "trustworthy"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "把真实产品作为主角，用少量线性注释解释可核实的构造与价值",
+      "reason": "匹配：传播目标、行业、目标用户、应用场景、情绪、平台"
+    },
+    {
+      "id": "kinetic_clay",
+      "name_zh": "动态黏土",
+      "name_en": "Kinetic Clay",
+      "family": "three_d",
+      "score": 17,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 3,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "目标用户": [
+          "creators"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster"
+        ]
+      },
+      "philosophy": "用可触摸的形变表现活力与变化",
+      "reason": "匹配：传播目标、行业、目标用户、应用场景、情绪、平台"
+    },
+    {
+      "id": "data_constellation",
+      "name_zh": "数据星群",
+      "name_en": "Data Constellation",
+      "family": "technology",
+      "score": 14,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 0,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "用可追溯数据点构成叙事图像，而非假装精确的统计",
+      "reason": "匹配：传播目标、行业、应用场景、情绪、平台"
+    }
+  ],
+  "ranked": [
+    {
+      "id": "annotated_product_story",
+      "name_zh": "产品注释叙事",
+      "name_en": "Annotated Product Story",
+      "family": "product_ad",
+      "score": 17,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 3,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "education"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "目标用户": [
+          "students"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative",
+          "trustworthy"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "把真实产品作为主角，用少量线性注释解释可核实的构造与价值",
+      "reason": "匹配：传播目标、行业、目标用户、应用场景、情绪、平台"
+    },
+    {
+      "id": "kinetic_clay",
+      "name_zh": "动态黏土",
+      "name_en": "Kinetic Clay",
+      "family": "three_d",
+      "score": 17,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 3,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "目标用户": [
+          "creators"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster"
+        ]
+      },
+      "philosophy": "用可触摸的形变表现活力与变化",
+      "reason": "匹配：传播目标、行业、目标用户、应用场景、情绪、平台"
+    },
+    {
+      "id": "procedural_orbit",
+      "name_zh": "程序轨道",
+      "name_en": "Procedural Orbit",
+      "family": "three_d",
+      "score": 17,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 3,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "目标用户": [
+          "creators"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster"
+        ]
+      },
+      "philosophy": "用受规则约束的重复单元建立可扩展视觉",
+      "reason": "匹配：传播目标、行业、目标用户、应用场景、情绪、平台"
+    },
+    {
+      "id": "soft_geometry",
+      "name_zh": "柔性几何",
+      "name_en": "Soft Geometry",
+      "family": "three_d",
+      "score": 17,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 3,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "目标用户": [
+          "creators"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster"
+        ]
+      },
+      "philosophy": "用友好的体块把复杂概念具象化",
+      "reason": "匹配：传播目标、行业、目标用户、应用场景、情绪、平台"
+    },
+    {
+      "id": "transparent_mechanism",
+      "name_zh": "透明机制",
+      "name_en": "Transparent Mechanism",
+      "family": "three_d",
+      "score": 17,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 3,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "目标用户": [
+          "creators"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster"
+        ]
+      },
+      "philosophy": "显示组件关系，但不把概念图伪装成工程事实",
+      "reason": "匹配：传播目标、行业、目标用户、应用场景、情绪、平台"
+    },
+    {
+      "id": "data_constellation",
+      "name_zh": "数据星群",
+      "name_en": "Data Constellation",
+      "family": "technology",
+      "score": 14,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 0,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "用可追溯数据点构成叙事图像，而非假装精确的统计",
+      "reason": "匹配：传播目标、行业、应用场景、情绪、平台"
+    },
+    {
+      "id": "modular_interface",
+      "name_zh": "模块界面",
+      "name_en": "Modular Interface",
+      "family": "technology",
+      "score": 14,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 0,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "让抽象系统变成可阅读的模块关系",
+      "reason": "匹配：传播目标、行业、应用场景、情绪、平台"
+    },
+    {
+      "id": "quiet_future",
+      "name_zh": "静谧未来",
+      "name_en": "Quiet Future",
+      "family": "technology",
+      "score": 14,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 0,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "用适度技术感传达可靠与可接近",
+      "reason": "匹配：传播目标、行业、应用场景、情绪、平台"
+    },
+    {
+      "id": "signal_gradient",
+      "name_zh": "信号渐层",
+      "name_en": "Signal Gradient",
+      "family": "technology",
+      "score": 14,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 3,
+        "audience_tags": 0,
+        "use_case": 3,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness"
+        ],
+        "行业": [
+          "technology"
+        ],
+        "应用场景": [
+          "technology"
+        ],
+        "情绪": [
+          "innovative"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "以连续色阶表达技术状态的流动与清晰",
+      "reason": "匹配：传播目标、行业、应用场景、情绪、平台"
+    },
+    {
+      "id": "object_part_learning_card",
+      "name_zh": "物件部位学习卡",
+      "name_en": "Object and Part Learning Card",
+      "family": "education",
+      "score": 11,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 0,
+        "audience_tags": 3,
+        "use_case": 0,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "education"
+        ],
+        "目标用户": [
+          "students"
+        ],
+        "情绪": [
+          "trustworthy"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "用整体与局部的可视对应帮助初学者建立词汇和结构概念",
+      "reason": "匹配：传播目标、目标用户、情绪、平台"
+    },
+    {
+      "id": "scientific_hero_plate",
+      "name_zh": "标本主视觉科普",
+      "name_en": "Scientific Hero Plate",
+      "family": "education",
+      "score": 11,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 0,
+        "audience_tags": 3,
+        "use_case": 0,
+        "emotion_tags": 2,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "awareness",
+          "education"
+        ],
+        "目标用户": [
+          "students"
+        ],
+        "情绪": [
+          "innovative",
+          "trustworthy"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "先让观众识别真实对象，再用少量核实过的信息建立理解",
+      "reason": "匹配：传播目标、目标用户、情绪、平台"
+    },
+    {
+      "id": "accessible_diagram",
+      "name_zh": "易读图解",
+      "name_en": "Accessible Diagram",
+      "family": "education",
+      "score": 9,
+      "score_breakdown": {
+        "goal_tags": 4,
+        "industry": 0,
+        "audience_tags": 3,
+        "use_case": 0,
+        "emotion_tags": 0,
+        "platform_tags": 2
+      },
+      "matched_tags": {
+        "传播目标": [
+          "education"
+        ],
+        "目标用户": [
+          "students"
+        ],
+        "平台": [
+          "poster",
+          "slide"
+        ]
+      },
+      "philosophy": "为不同阅读能力保留同样的信息入口",
+      "reason": "匹配：传播目标、目标用户、平台"
+    }
+  ],
+  "excluded_count": 0,
+  "weights": {
+    "goal_tags": 4,
+    "industry": 3,
+    "audience_tags": 3,
+    "use_case": 3,
+    "emotion_tags": 2,
+    "platform_tags": 2
+  }
+}

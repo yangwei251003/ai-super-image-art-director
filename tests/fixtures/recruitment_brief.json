@@ -1,0 +1,20 @@
+{
+  "subject": "一支真实协作的年轻产品设计团队，团队成员在讨论实体原型与屏幕草图",
+  "environment": "自然采光的现代设计工作室",
+  "industry": "technology",
+  "use_case": "recruitment",
+  "goal_tags": ["recruitment", "trust"],
+  "audience_tags": ["professionals"],
+  "emotion_tags": ["confident", "warm"],
+  "platform_tags": ["poster", "social"],
+  "width": 1024,
+  "height": 1536,
+  "image_count": 3,
+  "exact_text": ["加入我们", "产品设计师招聘"],
+  "brand_constraints": ["无品牌标识；这是不对应真实企业的概念海报"],
+  "must_have": ["人物动作自然，协作关系可信", "中文标题清晰且逐字准确"],
+  "avoid_terms": ["虚构公司名称", "虚构联系方式"],
+  "avoid_style_ids": [],
+  "avoid_families": [],
+  "reference_images": []
+}

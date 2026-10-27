@@ -1,0 +1,23 @@
+[
+  {
+    "id":"factual_structure",
+    "activates_when":"The visual depicts an identifiable real product, vehicle, device, building, or other physical structure for which the user supplies a model, reference, or factual claim.",
+    "critical_checks":["Compare visible parts, placement, proportions, markings, and stated capabilities with the supplied reference or an authoritative manufacturer source.","Check that the image and copy do not imply an unsupported specification, certification, performance result, or included accessory.","If essential structural information is unavailable, mark the detail as unverified and request a reference before asserting it is accurate."],
+    "caution":"Apply only to identifiable factual subjects. Do not turn an unspecified concept image into a fixed engineering specification; visual review cannot certify physical safety or performance.",
+    "source_urls":["https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation","https://www.dji.com/dji-fpv"]
+  },
+  {
+    "id":"explicit_quadcopter_topology",
+    "activates_when":"Only when the user explicitly requests a quadcopter, quadrotor, or four-rotor drone topology. Do not activate for the word 'drone' or 'FPV' alone, or for a specified cinewhoop, hexacopter, or other topology unless the user also explicitly specifies a quadcopter/four-rotor configuration.",
+    "critical_checks":["Verify four intended rotor/propeller positions when the requested topology is quadcopter/four-rotor; account for occlusion and perspective before calling a position missing.","Compare propeller guards, ducts, camera placement, and body form against the specified model or its official reference; a guard or duct is not an extra rotor.","If the source shows a different topology, resolve the conflict with the user brief or model reference before judging the image."],
+    "caution":"A quadcopter need not show four exposed, separate arms. DJI Avata 2 is an FPV model with integrated propeller guards; do not reject guarded or ducted layouts for lacking four exposed arms. Do not apply the four-rotor check to generic drones, six-rotor models, or other stated configurations.",
+    "source_urls":["https://www.dji.com/dji-fpv","https://www.dji.com/avata-2/faq","https://www.dji.com/support/product/matrice600"]
+  },
+  {
+    "id":"explicit_four_arm_fpv",
+    "activates_when":"Only when the user explicitly requests a four-arm FPV or four-arm quadrotor layout. A generic drone, a named model without an explicit four-arm request, or the label 'FPV drone' alone does not activate this validator.",
+    "critical_checks":["Trace four intended arms from the central body to their motor/propeller positions, allowing for normal perspective occlusion.","Check that propellers and any guards correspond to the specified reference rather than being duplicated or attached implausibly.","Compare camera and battery placement with the named model when a model is specified."],
+    "caution":"This is a conditional visual consistency check, not a rule for every FPV aircraft. A cinewhoop or guarded FPV craft may use a different visible frame; use the requested model's official documentation as the reference.",
+    "source_urls":["https://www.dji.com/dji-fpv","https://www.dji.com/avata-2/faq","https://store.dji.com/au/product/dji-avata-2-propellers"]
+  }
+]

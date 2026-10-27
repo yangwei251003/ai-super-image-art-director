@@ -1,0 +1,21 @@
+{
+  "subject": "a fictional geometric device made only of circles and rectangles; not a real product",
+  "environment": "a clearly labeled synthetic demonstration canvas",
+  "industry": "technology",
+  "use_case": "technology",
+  "goal_tags": ["awareness", "education"],
+  "audience_tags": ["creators", "students"],
+  "emotion_tags": ["innovative", "trustworthy"],
+  "platform_tags": ["poster", "slide"],
+  "width": 480,
+  "height": 640,
+  "image_count": 3,
+  "exact_text": ["SYNTHETIC DEMO", "NO MODEL OUTPUT"],
+  "brand_constraints": ["No real brand, person, account, contact detail or product claim"],
+  "must_have": ["geometric illustration only", "identify the result as a synthetic demonstration"],
+  "avoid_terms": ["cyberpunk"],
+  "avoid_style_ids": [],
+  "avoid_families": [],
+  "reference_images": [],
+  "synthetic": true
+}
